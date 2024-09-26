@@ -272,4 +272,4 @@ this.primereact.chip = (function (exports, React, api, componentbase, hooks, tim
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.timescircle, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.timescircle, primereactnew.dist.utils);

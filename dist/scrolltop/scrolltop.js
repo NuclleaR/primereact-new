@@ -295,4 +295,4 @@ this.primereact.scrolltop = (function (exports, React, PrimeReact, componentbase
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.chevronup, primereactnew.ripple, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.csstransition, primereactnew.dist.hooks, primereactnew.dist.icons.chevronup, primereactnew.dist.ripple, primereactnew.dist.utils);

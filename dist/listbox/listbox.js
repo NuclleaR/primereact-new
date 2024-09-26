@@ -1225,4 +1225,4 @@ this.primereact.listbox = (function (exports, React, api, componentbase, hooks, 
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.tooltip, primereactnew.utils, primereactnew.virtualscroller, primereactnew.icons.search, primereactnew.inputtext, primereactnew.ripple);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.tooltip, primereactnew.dist.utils, primereactnew.dist.virtualscroller, primereactnew.dist.icons.search, primereactnew.dist.inputtext, primereactnew.dist.ripple);

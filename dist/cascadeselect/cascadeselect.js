@@ -892,4 +892,4 @@ this.primereact.cascadeselect = (function (exports, React, PrimeReact, component
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.chevrondown, primereactnew.icons.spinner, primereactnew.overlayservice, primereactnew.portal, primereactnew.utils, primereactnew.icons.angleright, primereactnew.ripple);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.csstransition, primereactnew.dist.hooks, primereactnew.dist.icons.chevrondown, primereactnew.dist.icons.spinner, primereactnew.dist.overlayservice, primereactnew.dist.portal, primereactnew.dist.utils, primereactnew.dist.icons.angleright, primereactnew.dist.ripple);

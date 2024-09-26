@@ -4,17 +4,17 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var hooks = require('primereactnew/hooks');
-var utils = require('primereactnew/utils');
-var button = require('primereactnew/button');
-var plus = require('primereactnew/icons/plus');
-var times = require('primereactnew/icons/times');
-var upload = require('primereactnew/icons/upload');
-var messages = require('primereactnew/messages');
-var progressbar = require('primereactnew/progressbar');
-var ripple = require('primereactnew/ripple');
+var api = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var hooks = require('primereactnew/dist/hooks');
+var utils = require('primereactnew/dist/utils');
+var button = require('primereactnew/dist/button');
+var plus = require('primereactnew/dist/icons/plus');
+var times = require('primereactnew/dist/icons/times');
+var upload = require('primereactnew/dist/icons/upload');
+var messages = require('primereactnew/dist/messages');
+var progressbar = require('primereactnew/dist/progressbar');
+var ripple = require('primereactnew/dist/ripple');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

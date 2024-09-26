@@ -4,23 +4,23 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var hooks = require('primereactnew/hooks');
-var chevrondown = require('primereactnew/icons/chevrondown');
-var spinner = require('primereactnew/icons/spinner');
-var times = require('primereactnew/icons/times');
-var timescircle = require('primereactnew/icons/timescircle');
-var overlayservice = require('primereactnew/overlayservice');
-var tooltip = require('primereactnew/tooltip');
-var utils = require('primereactnew/utils');
-var csstransition = require('primereactnew/csstransition');
-var portal = require('primereactnew/portal');
-var virtualscroller = require('primereactnew/virtualscroller');
-var check = require('primereactnew/icons/check');
-var search = require('primereactnew/icons/search');
-var inputtext = require('primereactnew/inputtext');
-var ripple = require('primereactnew/ripple');
+var PrimeReact = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var hooks = require('primereactnew/dist/hooks');
+var chevrondown = require('primereactnew/dist/icons/chevrondown');
+var spinner = require('primereactnew/dist/icons/spinner');
+var times = require('primereactnew/dist/icons/times');
+var timescircle = require('primereactnew/dist/icons/timescircle');
+var overlayservice = require('primereactnew/dist/overlayservice');
+var tooltip = require('primereactnew/dist/tooltip');
+var utils = require('primereactnew/dist/utils');
+var csstransition = require('primereactnew/dist/csstransition');
+var portal = require('primereactnew/dist/portal');
+var virtualscroller = require('primereactnew/dist/virtualscroller');
+var check = require('primereactnew/dist/icons/check');
+var search = require('primereactnew/dist/icons/search');
+var inputtext = require('primereactnew/dist/inputtext');
+var ripple = require('primereactnew/dist/ripple');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

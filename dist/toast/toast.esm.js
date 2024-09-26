@@ -1,18 +1,18 @@
 'use client';
 import * as React from 'react';
 import { TransitionGroup } from 'react-transition-group';
-import PrimeReact$1, { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useTimeout, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { Portal } from 'primereactnew/portal';
-import { classNames, DomHandler, IconUtils, ObjectUtils, ZIndexUtils } from 'primereactnew/utils';
-import { CheckIcon } from 'primereactnew/icons/check';
-import { ExclamationTriangleIcon } from 'primereactnew/icons/exclamationtriangle';
-import { InfoCircleIcon } from 'primereactnew/icons/infocircle';
-import { TimesIcon } from 'primereactnew/icons/times';
-import { TimesCircleIcon } from 'primereactnew/icons/timescircle';
-import { Ripple } from 'primereactnew/ripple';
+import PrimeReact$1, { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useTimeout, useUpdateEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { Portal } from 'primereactnew/dist/portal';
+import { classNames, DomHandler, IconUtils, ObjectUtils, ZIndexUtils } from 'primereactnew/dist/utils';
+import { CheckIcon } from 'primereactnew/dist/icons/check';
+import { ExclamationTriangleIcon } from 'primereactnew/dist/icons/exclamationtriangle';
+import { InfoCircleIcon } from 'primereactnew/dist/icons/infocircle';
+import { TimesIcon } from 'primereactnew/dist/icons/times';
+import { TimesCircleIcon } from 'primereactnew/dist/icons/timescircle';
+import { Ripple } from 'primereactnew/dist/ripple';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

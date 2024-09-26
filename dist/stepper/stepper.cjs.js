@@ -4,11 +4,11 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var csstransition = require('primereactnew/csstransition');
-var hooks = require('primereactnew/hooks');
-var utils = require('primereactnew/utils');
+var api = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var csstransition = require('primereactnew/dist/csstransition');
+var hooks = require('primereactnew/dist/hooks');
+var utils = require('primereactnew/dist/utils');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

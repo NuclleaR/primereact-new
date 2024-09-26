@@ -1,17 +1,17 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { localeOption, ariaLabel, PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useMountEffect, usePrevious, useResizeListener, useUpdateEffect, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useInterval, useUnmountEffect } from 'primereactnew/hooks';
-import { TimesIcon } from 'primereactnew/icons/times';
-import { Portal } from 'primereactnew/portal';
-import { Ripple } from 'primereactnew/ripple';
-import { classNames, IconUtils, DomHandler, UniqueComponentId, ObjectUtils, ZIndexUtils } from 'primereactnew/utils';
-import { ChevronLeftIcon } from 'primereactnew/icons/chevronleft';
-import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { ChevronUpIcon } from 'primereactnew/icons/chevronup';
+import PrimeReact, { localeOption, ariaLabel, PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useMountEffect, usePrevious, useResizeListener, useUpdateEffect, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useInterval, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { TimesIcon } from 'primereactnew/dist/icons/times';
+import { Portal } from 'primereactnew/dist/portal';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { classNames, IconUtils, DomHandler, UniqueComponentId, ObjectUtils, ZIndexUtils } from 'primereactnew/dist/utils';
+import { ChevronLeftIcon } from 'primereactnew/dist/icons/chevronleft';
+import { ChevronRightIcon } from 'primereactnew/dist/icons/chevronright';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { ChevronUpIcon } from 'primereactnew/dist/icons/chevronup';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

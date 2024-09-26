@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, ariaLabel } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useMatchMedia, useEventListener, useResizeListener, useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
-import { AngleDownIcon } from 'primereactnew/icons/angledown';
-import { AngleRightIcon } from 'primereactnew/icons/angleright';
-import { BarsIcon } from 'primereactnew/icons/bars';
-import { Ripple } from 'primereactnew/ripple';
-import { classNames, DomHandler, UniqueComponentId, ZIndexUtils, ObjectUtils, IconUtils } from 'primereactnew/utils';
+import PrimeReact, { PrimeReactContext, ariaLabel } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useMatchMedia, useEventListener, useResizeListener, useMountEffect, useUpdateEffect } from 'primereactnew/dist/hooks';
+import { AngleDownIcon } from 'primereactnew/dist/icons/angledown';
+import { AngleRightIcon } from 'primereactnew/dist/icons/angleright';
+import { BarsIcon } from 'primereactnew/dist/icons/bars';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { classNames, DomHandler, UniqueComponentId, ZIndexUtils, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

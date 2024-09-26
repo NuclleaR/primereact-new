@@ -1,10 +1,10 @@
 'use client';
 import React, { useRef, useContext, useState } from 'react';
-import { PrimeReactContext, ariaLabel } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useUpdateEffect } from 'primereactnew/hooks';
-import { InputText } from 'primereactnew/inputtext';
-import { ObjectUtils } from 'primereactnew/utils';
+import { PrimeReactContext, ariaLabel } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useUpdateEffect } from 'primereactnew/dist/hooks';
+import { InputText } from 'primereactnew/dist/inputtext';
+import { ObjectUtils } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

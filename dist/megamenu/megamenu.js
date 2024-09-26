@@ -1357,4 +1357,4 @@ this.primereact.megamenu = (function (exports, React, PrimeReact, componentbase,
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.angledown, primereactnew.icons.angleright, primereactnew.icons.bars, primereactnew.ripple, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.angledown, primereactnew.dist.icons.angleright, primereactnew.dist.icons.bars, primereactnew.dist.ripple, primereactnew.dist.utils);

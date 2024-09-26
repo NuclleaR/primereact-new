@@ -1,14 +1,14 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
-import { AngleDownIcon } from 'primereactnew/icons/angledown';
-import { AngleUpIcon } from 'primereactnew/icons/angleup';
-import { InputText } from 'primereactnew/inputtext';
-import { Ripple } from 'primereactnew/ripple';
-import { Tooltip } from 'primereactnew/tooltip';
-import { classNames, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/utils';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useMountEffect, useUpdateEffect } from 'primereactnew/dist/hooks';
+import { AngleDownIcon } from 'primereactnew/dist/icons/angledown';
+import { AngleUpIcon } from 'primereactnew/dist/icons/angleup';
+import { InputText } from 'primereactnew/dist/inputtext';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { Tooltip } from 'primereactnew/dist/tooltip';
+import { classNames, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

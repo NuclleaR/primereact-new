@@ -1,10 +1,10 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereactnew/api';
-import { useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
-import { InputText } from 'primereactnew/inputtext';
-import { classNames, DomHandler, ObjectUtils } from 'primereactnew/utils';
-import { ComponentBase } from 'primereactnew/componentbase';
+import { PrimeReactContext } from 'primereactnew/dist/api';
+import { useMountEffect, useUpdateEffect } from 'primereactnew/dist/hooks';
+import { InputText } from 'primereactnew/dist/inputtext';
+import { classNames, DomHandler, ObjectUtils } from 'primereactnew/dist/utils';
+import { ComponentBase } from 'primereactnew/dist/componentbase';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

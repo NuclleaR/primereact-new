@@ -1296,4 +1296,4 @@ this.primereact.hooks = (function (exports, React, utils, PrimeReact) {
 
   return exports;
 
-})({}, React, primereactnew.utils, primereactnew.api);
+})({}, React, primereactnew.dist.utils, primereactnew.dist.api);

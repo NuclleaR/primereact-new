@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useEventListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { TimesIcon } from 'primereactnew/icons/times';
-import { Portal } from 'primereactnew/portal';
-import { Ripple } from 'primereactnew/ripple';
-import { classNames, ZIndexUtils, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/utils';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useEventListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { TimesIcon } from 'primereactnew/dist/icons/times';
+import { Portal } from 'primereactnew/dist/portal';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { classNames, ZIndexUtils, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

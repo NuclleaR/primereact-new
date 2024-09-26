@@ -1269,4 +1269,4 @@ this.primereact.panelmenu = (function (exports, React, api, componentbase, csstr
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.chevrondown, primereactnew.icons.chevronright, primereactnew.utils, primereactnew.ripple);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.csstransition, primereactnew.dist.hooks, primereactnew.dist.icons.chevrondown, primereactnew.dist.icons.chevronright, primereactnew.dist.utils, primereactnew.dist.ripple);

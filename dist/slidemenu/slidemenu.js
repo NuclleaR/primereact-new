@@ -615,4 +615,4 @@ this.primereact.slidemenu = (function (exports, React, PrimeReact, componentbase
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.chevronleft, primereactnew.overlayservice, primereactnew.portal, primereactnew.utils, primereactnew.icons.angleright);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.csstransition, primereactnew.dist.hooks, primereactnew.dist.icons.chevronleft, primereactnew.dist.overlayservice, primereactnew.dist.portal, primereactnew.dist.utils, primereactnew.dist.icons.angleright);

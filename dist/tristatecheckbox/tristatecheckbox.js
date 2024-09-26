@@ -262,4 +262,4 @@ this.primereact.tristatecheckbox = (function (exports, React, api, componentbase
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.check, primereactnew.icons.times, primereactnew.tooltip, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.check, primereactnew.dist.icons.times, primereactnew.dist.tooltip, primereactnew.dist.utils);

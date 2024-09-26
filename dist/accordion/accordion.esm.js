@@ -1,12 +1,12 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useMountEffect } from 'primereactnew/hooks';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
-import { ObjectUtils, classNames, UniqueComponentId, IconUtils, DomHandler } from 'primereactnew/utils';
+import { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useMountEffect } from 'primereactnew/dist/hooks';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { ChevronRightIcon } from 'primereactnew/dist/icons/chevronright';
+import { ObjectUtils, classNames, UniqueComponentId, IconUtils, DomHandler } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

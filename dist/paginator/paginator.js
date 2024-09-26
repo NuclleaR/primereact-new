@@ -1239,4 +1239,4 @@ this.primereact.paginator = (function (exports, React, api, componentbase, hooks
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils, primereactnew.icons.angledoubleleft, primereactnew.ripple, primereactnew.inputnumber, primereactnew.icons.angledoubleright, primereactnew.icons.angleright, primereactnew.icons.angleleft, primereactnew.dropdown);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.utils, primereactnew.dist.icons.angledoubleleft, primereactnew.dist.ripple, primereactnew.dist.inputnumber, primereactnew.dist.icons.angledoubleright, primereactnew.dist.icons.angleright, primereactnew.dist.icons.angleleft, primereactnew.dist.dropdown);

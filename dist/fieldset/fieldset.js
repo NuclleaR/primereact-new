@@ -293,4 +293,4 @@ this.primereact.fieldset = (function (exports, React, api, componentbase, csstra
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.minus, primereactnew.icons.plus, primereactnew.ripple, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.csstransition, primereactnew.dist.hooks, primereactnew.dist.icons.minus, primereactnew.dist.icons.plus, primereactnew.dist.ripple, primereactnew.dist.utils);

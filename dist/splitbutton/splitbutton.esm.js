@@ -1,17 +1,17 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
-import { Button } from 'primereactnew/button';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useUpdateEffect, useMatchMedia, useEventListener, useResizeListener, useMountEffect, useUnmountEffect, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES } from 'primereactnew/hooks';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { Portal } from 'primereactnew/portal';
-import { classNames, DomHandler, ObjectUtils, IconUtils, UniqueComponentId, ZIndexUtils } from 'primereactnew/utils';
-import { AngleRightIcon } from 'primereactnew/icons/angleright';
-import { Ripple } from 'primereactnew/ripple';
-import { Tooltip } from 'primereactnew/tooltip';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/dist/api';
+import { Button } from 'primereactnew/dist/button';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useUpdateEffect, useMatchMedia, useEventListener, useResizeListener, useMountEffect, useUnmountEffect, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES } from 'primereactnew/dist/hooks';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { Portal } from 'primereactnew/dist/portal';
+import { classNames, DomHandler, ObjectUtils, IconUtils, UniqueComponentId, ZIndexUtils } from 'primereactnew/dist/utils';
+import { AngleRightIcon } from 'primereactnew/dist/icons/angleright';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { Tooltip } from 'primereactnew/dist/tooltip';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

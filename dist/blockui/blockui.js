@@ -288,4 +288,4 @@ this.primereact.blockui = (function (exports, React, PrimeReact, componentbase, 
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.portal, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.portal, primereactnew.dist.utils);

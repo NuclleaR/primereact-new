@@ -1,12 +1,12 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useEventListener, useUnmountEffect } from 'primereactnew/hooks';
-import { ChevronUpIcon } from 'primereactnew/icons/chevronup';
-import { Ripple } from 'primereactnew/ripple';
-import { classNames, DomHandler, ZIndexUtils, IconUtils } from 'primereactnew/utils';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useEventListener, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { ChevronUpIcon } from 'primereactnew/dist/icons/chevronup';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { classNames, DomHandler, ZIndexUtils, IconUtils } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

@@ -431,4 +431,4 @@ this.primereact.scrollpanel = (function (exports, React, api, componentbase, hoo
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.utils);

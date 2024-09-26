@@ -276,4 +276,4 @@ this.primereact.ripple = (function (exports, React, PrimeReact, hooks, utils, co
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.hooks, primereactnew.utils, primereactnew.componentbase);
+})({}, React, primereactnew.dist.api, primereactnew.dist.hooks, primereactnew.dist.utils, primereactnew.dist.componentbase);

@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext, localeOption } from 'primereactnew/api';
-import { Button } from 'primereactnew/button';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { Dialog } from 'primereactnew/dialog';
-import { useMergeProps, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { Portal } from 'primereactnew/portal';
-import { classNames, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/utils';
+import { PrimeReactContext, localeOption } from 'primereactnew/dist/api';
+import { Button } from 'primereactnew/dist/button';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { Dialog } from 'primereactnew/dist/dialog';
+import { useMergeProps, useUpdateEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { Portal } from 'primereactnew/dist/portal';
+import { classNames, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

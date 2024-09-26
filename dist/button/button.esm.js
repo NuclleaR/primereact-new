@@ -1,12 +1,12 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps } from 'primereactnew/hooks';
-import { classNames, ObjectUtils, IconUtils } from 'primereactnew/utils';
-import { SpinnerIcon } from 'primereactnew/icons/spinner';
-import { Ripple } from 'primereactnew/ripple';
-import { Tooltip } from 'primereactnew/tooltip';
+import { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps } from 'primereactnew/dist/hooks';
+import { classNames, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
+import { SpinnerIcon } from 'primereactnew/dist/icons/spinner';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { Tooltip } from 'primereactnew/dist/tooltip';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

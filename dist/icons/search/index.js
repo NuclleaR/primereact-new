@@ -62,4 +62,4 @@ this.primereact.icons.search = (function (exports, React, iconbase) {
 
   return exports;
 
-})({}, React, primereactnew.iconbase);
+})({}, React, primereactnew.dist.iconbase);

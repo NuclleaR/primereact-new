@@ -4,14 +4,14 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var hooks = require('primereactnew/hooks');
-var overlayservice = require('primereactnew/overlayservice');
-var tooltip = require('primereactnew/tooltip');
-var utils = require('primereactnew/utils');
-var csstransition = require('primereactnew/csstransition');
-var portal = require('primereactnew/portal');
+var PrimeReact = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var hooks = require('primereactnew/dist/hooks');
+var overlayservice = require('primereactnew/dist/overlayservice');
+var tooltip = require('primereactnew/dist/tooltip');
+var utils = require('primereactnew/dist/utils');
+var csstransition = require('primereactnew/dist/csstransition');
+var portal = require('primereactnew/dist/portal');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

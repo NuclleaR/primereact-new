@@ -97,4 +97,4 @@ this.primereact.toolbar = (function (exports, React, api, componentbase, hooks, 
 
     return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.utils);

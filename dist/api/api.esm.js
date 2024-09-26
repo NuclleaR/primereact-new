@@ -1,5 +1,5 @@
 'use client';
-import { ObjectUtils } from 'primereactnew/utils';
+import { ObjectUtils } from 'primereactnew/dist/utils';
 import React, { useState } from 'react';
 
 var FilterMatchMode = Object.freeze({

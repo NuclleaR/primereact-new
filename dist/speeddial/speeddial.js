@@ -792,4 +792,4 @@ this.primereact.speeddial = (function (exports, React, api, button, componentbas
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.button, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.minus, primereactnew.icons.plus, primereactnew.ripple, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.button, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.minus, primereactnew.dist.icons.plus, primereactnew.dist.ripple, primereactnew.dist.utils);

@@ -1,11 +1,11 @@
 'use client';
 import * as React from 'react';
 import React__default from 'react';
-import { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
-import { classNames, ObjectUtils, UniqueComponentId } from 'primereactnew/utils';
+import { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useMountEffect, useUpdateEffect } from 'primereactnew/dist/hooks';
+import { classNames, ObjectUtils, UniqueComponentId } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

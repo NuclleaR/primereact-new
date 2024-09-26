@@ -4,7 +4,7 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var iconbase = require('primereactnew/iconbase');
+var iconbase = require('primereactnew/dist/iconbase');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

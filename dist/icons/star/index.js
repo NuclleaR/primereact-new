@@ -60,4 +60,4 @@ this.primereact.icons.star = (function (exports, React, iconbase) {
 
   return exports;
 
-})({}, React, primereactnew.iconbase);
+})({}, React, primereactnew.dist.iconbase);

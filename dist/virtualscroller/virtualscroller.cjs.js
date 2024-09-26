@@ -4,11 +4,11 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereactnew/api');
-var hooks = require('primereactnew/hooks');
-var spinner = require('primereactnew/icons/spinner');
-var utils = require('primereactnew/utils');
-var componentbase = require('primereactnew/componentbase');
+var api = require('primereactnew/dist/api');
+var hooks = require('primereactnew/dist/hooks');
+var spinner = require('primereactnew/dist/icons/spinner');
+var utils = require('primereactnew/dist/utils');
+var componentbase = require('primereactnew/dist/componentbase');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

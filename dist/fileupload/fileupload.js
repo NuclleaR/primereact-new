@@ -1039,4 +1039,4 @@ this.primereact.fileupload = (function (exports, React, api, componentbase, hook
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils, primereactnew.button, primereactnew.icons.plus, primereactnew.icons.times, primereactnew.icons.upload, primereactnew.messages, primereactnew.progressbar, primereactnew.ripple);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.utils, primereactnew.dist.button, primereactnew.dist.icons.plus, primereactnew.dist.icons.times, primereactnew.dist.icons.upload, primereactnew.dist.messages, primereactnew.dist.progressbar, primereactnew.dist.ripple);

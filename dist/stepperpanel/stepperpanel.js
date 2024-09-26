@@ -56,4 +56,4 @@ this.primereact.stepperpanel = (function (exports, React, api, componentbase) {
 
     return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase);

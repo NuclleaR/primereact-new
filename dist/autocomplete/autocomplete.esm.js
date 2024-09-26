@@ -1,20 +1,20 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
-import { Button } from 'primereactnew/button';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { SpinnerIcon } from 'primereactnew/icons/spinner';
-import { TimesCircleIcon } from 'primereactnew/icons/timescircle';
-import { InputText } from 'primereactnew/inputtext';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { Tooltip } from 'primereactnew/tooltip';
-import { classNames, ObjectUtils, UniqueComponentId, DomHandler, ZIndexUtils, IconUtils } from 'primereactnew/utils';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { Portal } from 'primereactnew/portal';
-import { Ripple } from 'primereactnew/ripple';
-import { VirtualScroller } from 'primereactnew/virtualscroller';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/dist/api';
+import { Button } from 'primereactnew/dist/button';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { SpinnerIcon } from 'primereactnew/dist/icons/spinner';
+import { TimesCircleIcon } from 'primereactnew/dist/icons/timescircle';
+import { InputText } from 'primereactnew/dist/inputtext';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { Tooltip } from 'primereactnew/dist/tooltip';
+import { classNames, ObjectUtils, UniqueComponentId, DomHandler, ZIndexUtils, IconUtils } from 'primereactnew/dist/utils';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { Portal } from 'primereactnew/dist/portal';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { VirtualScroller } from 'primereactnew/dist/virtualscroller';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

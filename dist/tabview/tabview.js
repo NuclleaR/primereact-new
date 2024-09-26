@@ -811,4 +811,4 @@ this.primereact.tabview = (function (exports, React, api, componentbase, hooks, 
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.chevronleft, primereactnew.icons.chevronright, primereactnew.icons.times, primereactnew.ripple, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.chevronleft, primereactnew.dist.icons.chevronright, primereactnew.dist.icons.times, primereactnew.dist.ripple, primereactnew.dist.utils);

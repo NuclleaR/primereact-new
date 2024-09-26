@@ -824,4 +824,4 @@ this.primereact.colorpicker = (function (exports, React, PrimeReact, componentba
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.overlayservice, primereactnew.tooltip, primereactnew.utils, primereactnew.csstransition, primereactnew.portal);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.overlayservice, primereactnew.dist.tooltip, primereactnew.dist.utils, primereactnew.dist.csstransition, primereactnew.dist.portal);

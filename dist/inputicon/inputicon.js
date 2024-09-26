@@ -108,4 +108,4 @@ this.primereact.inputicon = (function (exports, React, hooks, api, componentbase
 
   return exports;
 
-})({}, React, primereactnew.hooks, primereactnew.api, primereactnew.componentbase, primereactnew.utils);
+})({}, React, primereactnew.dist.hooks, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.utils);

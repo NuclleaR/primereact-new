@@ -1,9 +1,9 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereactnew/api';
-import { useMergeProps } from 'primereactnew/hooks';
-import { ComponentBase } from 'primereactnew/componentbase';
-import { ObjectUtils } from 'primereactnew/utils';
+import { PrimeReactContext } from 'primereactnew/dist/api';
+import { useMergeProps } from 'primereactnew/dist/hooks';
+import { ComponentBase } from 'primereactnew/dist/componentbase';
+import { ObjectUtils } from 'primereactnew/dist/utils';
 
 var RowBase = ComponentBase.extend({
   defaultProps: {

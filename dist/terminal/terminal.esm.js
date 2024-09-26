@@ -1,10 +1,10 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps } from 'primereactnew/hooks';
-import { TerminalService } from 'primereactnew/terminalservice';
-import { DomHandler, classNames } from 'primereactnew/utils';
+import { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps } from 'primereactnew/dist/hooks';
+import { TerminalService } from 'primereactnew/dist/terminalservice';
+import { DomHandler, classNames } from 'primereactnew/dist/utils';
 
 function _arrayLikeToArray(arr, len) {
   if (len == null || len > arr.length) len = arr.length;

@@ -1,14 +1,14 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { ChevronLeftIcon } from 'primereactnew/icons/chevronleft';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { Portal } from 'primereactnew/portal';
-import { classNames, IconUtils, ObjectUtils, UniqueComponentId, ZIndexUtils, DomHandler } from 'primereactnew/utils';
-import { AngleRightIcon } from 'primereactnew/icons/angleright';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { ChevronLeftIcon } from 'primereactnew/dist/icons/chevronleft';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { Portal } from 'primereactnew/dist/portal';
+import { classNames, IconUtils, ObjectUtils, UniqueComponentId, ZIndexUtils, DomHandler } from 'primereactnew/dist/utils';
+import { AngleRightIcon } from 'primereactnew/dist/icons/angleright';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

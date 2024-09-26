@@ -4,16 +4,16 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var csstransition = require('primereactnew/csstransition');
-var hooks = require('primereactnew/hooks');
-var utils = require('primereactnew/utils');
-var times = require('primereactnew/icons/times');
-var windowmaximize = require('primereactnew/icons/windowmaximize');
-var windowminimize = require('primereactnew/icons/windowminimize');
-var portal = require('primereactnew/portal');
-var ripple = require('primereactnew/ripple');
+var PrimeReact = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var csstransition = require('primereactnew/dist/csstransition');
+var hooks = require('primereactnew/dist/hooks');
+var utils = require('primereactnew/dist/utils');
+var times = require('primereactnew/dist/icons/times');
+var windowmaximize = require('primereactnew/dist/icons/windowmaximize');
+var windowminimize = require('primereactnew/dist/icons/windowminimize');
+var portal = require('primereactnew/dist/portal');
+var ripple = require('primereactnew/dist/ripple');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

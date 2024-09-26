@@ -1165,4 +1165,4 @@ this.primereact.menubar = (function (exports, React, PrimeReact, componentbase, 
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.bars, primereactnew.utils, primereactnew.icons.angledown, primereactnew.icons.angleright, primereactnew.ripple);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.bars, primereactnew.dist.utils, primereactnew.dist.icons.angledown, primereactnew.dist.icons.angleright, primereactnew.dist.ripple);

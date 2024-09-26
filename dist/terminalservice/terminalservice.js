@@ -10,4 +10,4 @@ this.primereact.terminalservice = (function (exports, utils) {
 
 	return exports;
 
-})({}, primereactnew.utils);
+})({}, primereactnew.dist.utils);

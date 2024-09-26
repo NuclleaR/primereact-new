@@ -1,9 +1,9 @@
 'use client';
 import * as React from 'react';
 import ReactDOM from 'react-dom';
-import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
-import { useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { ObjectUtils, DomHandler } from 'primereactnew/utils';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/dist/api';
+import { useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { ObjectUtils, DomHandler } from 'primereactnew/dist/utils';
 
 function _arrayWithHoles(arr) {
   if (Array.isArray(arr)) return arr;

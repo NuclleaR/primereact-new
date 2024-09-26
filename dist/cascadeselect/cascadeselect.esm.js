@@ -1,16 +1,16 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useMountEffect, useUpdateEffect, useOverlayListener, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useUnmountEffect } from 'primereactnew/hooks';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { SpinnerIcon } from 'primereactnew/icons/spinner';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { Portal } from 'primereactnew/portal';
-import { classNames, DomHandler, ObjectUtils, IconUtils, UniqueComponentId, ZIndexUtils } from 'primereactnew/utils';
-import { AngleRightIcon } from 'primereactnew/icons/angleright';
-import { Ripple } from 'primereactnew/ripple';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useMountEffect, useUpdateEffect, useOverlayListener, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { SpinnerIcon } from 'primereactnew/dist/icons/spinner';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { Portal } from 'primereactnew/dist/portal';
+import { classNames, DomHandler, ObjectUtils, IconUtils, UniqueComponentId, ZIndexUtils } from 'primereactnew/dist/utils';
+import { AngleRightIcon } from 'primereactnew/dist/icons/angleright';
+import { Ripple } from 'primereactnew/dist/ripple';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

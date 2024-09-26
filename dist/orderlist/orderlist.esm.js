@@ -1,16 +1,16 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { ariaLabel, PrimeReactContext, FilterService } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
-import { classNames, ObjectUtils, IconUtils, DomHandler, UniqueComponentId } from 'primereactnew/utils';
-import { Button } from 'primereactnew/button';
-import { AngleDoubleDownIcon } from 'primereactnew/icons/angledoubledown';
-import { AngleDoubleUpIcon } from 'primereactnew/icons/angledoubleup';
-import { AngleDownIcon } from 'primereactnew/icons/angledown';
-import { AngleUpIcon } from 'primereactnew/icons/angleup';
-import { SearchIcon } from 'primereactnew/icons/search';
-import { Ripple } from 'primereactnew/ripple';
+import PrimeReact, { ariaLabel, PrimeReactContext, FilterService } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useMountEffect, useUpdateEffect } from 'primereactnew/dist/hooks';
+import { classNames, ObjectUtils, IconUtils, DomHandler, UniqueComponentId } from 'primereactnew/dist/utils';
+import { Button } from 'primereactnew/dist/button';
+import { AngleDoubleDownIcon } from 'primereactnew/dist/icons/angledoubledown';
+import { AngleDoubleUpIcon } from 'primereactnew/dist/icons/angledoubleup';
+import { AngleDownIcon } from 'primereactnew/dist/icons/angledown';
+import { AngleUpIcon } from 'primereactnew/dist/icons/angleup';
+import { SearchIcon } from 'primereactnew/dist/icons/search';
+import { Ripple } from 'primereactnew/dist/ripple';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

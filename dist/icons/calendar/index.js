@@ -60,4 +60,4 @@ this.primereact.icons.calendar = (function (exports, React, iconbase) {
 
   return exports;
 
-})({}, React, primereactnew.iconbase);
+})({}, React, primereactnew.dist.iconbase);

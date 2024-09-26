@@ -1149,4 +1149,4 @@ this.primereact.api = (function (exports, utils, React) {
 
     return exports;
 
-})({}, primereactnew.utils, React);
+})({}, primereactnew.dist.utils, React);

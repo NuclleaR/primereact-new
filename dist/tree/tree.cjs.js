@@ -4,18 +4,18 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var hooks = require('primereactnew/hooks');
-var search = require('primereactnew/icons/search');
-var spinner = require('primereactnew/icons/spinner');
-var utils = require('primereactnew/utils');
-var check = require('primereactnew/icons/check');
-var chevrondown = require('primereactnew/icons/chevrondown');
-var chevronright = require('primereactnew/icons/chevronright');
-var minus = require('primereactnew/icons/minus');
-var ripple = require('primereactnew/ripple');
-var tooltip = require('primereactnew/tooltip');
+var api = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var hooks = require('primereactnew/dist/hooks');
+var search = require('primereactnew/dist/icons/search');
+var spinner = require('primereactnew/dist/icons/spinner');
+var utils = require('primereactnew/dist/utils');
+var check = require('primereactnew/dist/icons/check');
+var chevrondown = require('primereactnew/dist/icons/chevrondown');
+var chevronright = require('primereactnew/dist/icons/chevronright');
+var minus = require('primereactnew/dist/icons/minus');
+var ripple = require('primereactnew/dist/ripple');
+var tooltip = require('primereactnew/dist/tooltip');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

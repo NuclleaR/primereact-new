@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps } from 'primereactnew/hooks';
-import { CheckIcon } from 'primereactnew/icons/check';
-import { ExclamationTriangleIcon } from 'primereactnew/icons/exclamationtriangle';
-import { InfoCircleIcon } from 'primereactnew/icons/infocircle';
-import { TimesCircleIcon } from 'primereactnew/icons/timescircle';
-import { classNames, ObjectUtils, IconUtils } from 'primereactnew/utils';
+import { PrimeReactContext } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps } from 'primereactnew/dist/hooks';
+import { CheckIcon } from 'primereactnew/dist/icons/check';
+import { ExclamationTriangleIcon } from 'primereactnew/dist/icons/exclamationtriangle';
+import { InfoCircleIcon } from 'primereactnew/dist/icons/infocircle';
+import { TimesCircleIcon } from 'primereactnew/dist/icons/timescircle';
+import { classNames, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

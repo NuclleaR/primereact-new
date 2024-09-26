@@ -4,25 +4,25 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var utils = require('primereactnew/utils');
-var hooks = require('primereactnew/hooks');
-var arrowdown = require('primereactnew/icons/arrowdown');
-var arrowup = require('primereactnew/icons/arrowup');
-var spinner = require('primereactnew/icons/spinner');
-var paginator = require('primereactnew/paginator');
-var check = require('primereactnew/icons/check');
-var chevrondown = require('primereactnew/icons/chevrondown');
-var chevronright = require('primereactnew/icons/chevronright');
-var minus = require('primereactnew/icons/minus');
-var ripple = require('primereactnew/ripple');
-var overlayservice = require('primereactnew/overlayservice');
-var tooltip = require('primereactnew/tooltip');
-var sortalt = require('primereactnew/icons/sortalt');
-var sortamountdown = require('primereactnew/icons/sortamountdown');
-var sortamountupalt = require('primereactnew/icons/sortamountupalt');
-var inputtext = require('primereactnew/inputtext');
+var PrimeReact = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var utils = require('primereactnew/dist/utils');
+var hooks = require('primereactnew/dist/hooks');
+var arrowdown = require('primereactnew/dist/icons/arrowdown');
+var arrowup = require('primereactnew/dist/icons/arrowup');
+var spinner = require('primereactnew/dist/icons/spinner');
+var paginator = require('primereactnew/dist/paginator');
+var check = require('primereactnew/dist/icons/check');
+var chevrondown = require('primereactnew/dist/icons/chevrondown');
+var chevronright = require('primereactnew/dist/icons/chevronright');
+var minus = require('primereactnew/dist/icons/minus');
+var ripple = require('primereactnew/dist/ripple');
+var overlayservice = require('primereactnew/dist/overlayservice');
+var tooltip = require('primereactnew/dist/tooltip');
+var sortalt = require('primereactnew/dist/icons/sortalt');
+var sortamountdown = require('primereactnew/dist/icons/sortamountdown');
+var sortamountupalt = require('primereactnew/dist/icons/sortamountupalt');
+var inputtext = require('primereactnew/dist/inputtext');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

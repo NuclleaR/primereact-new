@@ -513,4 +513,4 @@ this.primereact.organizationchart = (function (exports, React, api, componentbas
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils, primereactnew.icons.chevrondown, primereactnew.icons.chevronup);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.utils, primereactnew.dist.icons.chevrondown, primereactnew.dist.icons.chevronup);

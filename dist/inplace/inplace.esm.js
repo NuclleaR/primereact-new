@@ -1,11 +1,11 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext, localeOption } from 'primereactnew/api';
-import { Button } from 'primereactnew/button';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useUpdateEffect } from 'primereactnew/hooks';
-import { TimesIcon } from 'primereactnew/icons/times';
-import { classNames, ObjectUtils, IconUtils } from 'primereactnew/utils';
+import { PrimeReactContext, localeOption } from 'primereactnew/dist/api';
+import { Button } from 'primereactnew/dist/button';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useUpdateEffect } from 'primereactnew/dist/hooks';
+import { TimesIcon } from 'primereactnew/dist/icons/times';
+import { classNames, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
 
 function _arrayWithHoles(arr) {
   if (Array.isArray(arr)) return arr;

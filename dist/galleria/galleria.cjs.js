@@ -4,18 +4,18 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var csstransition = require('primereactnew/csstransition');
-var hooks = require('primereactnew/hooks');
-var times = require('primereactnew/icons/times');
-var portal = require('primereactnew/portal');
-var ripple = require('primereactnew/ripple');
-var utils = require('primereactnew/utils');
-var chevronleft = require('primereactnew/icons/chevronleft');
-var chevronright = require('primereactnew/icons/chevronright');
-var chevrondown = require('primereactnew/icons/chevrondown');
-var chevronup = require('primereactnew/icons/chevronup');
+var PrimeReact = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var csstransition = require('primereactnew/dist/csstransition');
+var hooks = require('primereactnew/dist/hooks');
+var times = require('primereactnew/dist/icons/times');
+var portal = require('primereactnew/dist/portal');
+var ripple = require('primereactnew/dist/ripple');
+var utils = require('primereactnew/dist/utils');
+var chevronleft = require('primereactnew/dist/icons/chevronleft');
+var chevronright = require('primereactnew/dist/icons/chevronright');
+var chevrondown = require('primereactnew/dist/icons/chevrondown');
+var chevronup = require('primereactnew/dist/icons/chevronup');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

@@ -4,17 +4,17 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var hooks = require('primereactnew/hooks');
-var utils = require('primereactnew/utils');
-var button = require('primereactnew/button');
-var angledoubledown = require('primereactnew/icons/angledoubledown');
-var angledoubleup = require('primereactnew/icons/angledoubleup');
-var angledown = require('primereactnew/icons/angledown');
-var angleup = require('primereactnew/icons/angleup');
-var search = require('primereactnew/icons/search');
-var ripple = require('primereactnew/ripple');
+var PrimeReact = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var hooks = require('primereactnew/dist/hooks');
+var utils = require('primereactnew/dist/utils');
+var button = require('primereactnew/dist/button');
+var angledoubledown = require('primereactnew/dist/icons/angledoubledown');
+var angledoubleup = require('primereactnew/dist/icons/angledoubleup');
+var angledown = require('primereactnew/dist/icons/angledown');
+var angleup = require('primereactnew/dist/icons/angleup');
+var search = require('primereactnew/dist/icons/search');
+var ripple = require('primereactnew/dist/ripple');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

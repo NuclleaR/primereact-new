@@ -1,16 +1,16 @@
 'use client';
 import * as React from 'react';
 import React__default, { useRef, useContext, Children, cloneElement } from 'react';
-import PrimeReact, { PrimeReactContext, localeOption, ariaLabel } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useOverlayListener, useUpdateEffect, useMountEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { classNames, ObjectUtils, DomHandler, ZIndexUtils, IconUtils } from 'primereactnew/utils';
-import { EyeIcon } from 'primereactnew/icons/eye';
-import { EyeSlashIcon } from 'primereactnew/icons/eyeslash';
-import { InputText } from 'primereactnew/inputtext';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { Portal } from 'primereactnew/portal';
+import PrimeReact, { PrimeReactContext, localeOption, ariaLabel } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useOverlayListener, useUpdateEffect, useMountEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { classNames, ObjectUtils, DomHandler, ZIndexUtils, IconUtils } from 'primereactnew/dist/utils';
+import { EyeIcon } from 'primereactnew/dist/icons/eye';
+import { EyeSlashIcon } from 'primereactnew/dist/icons/eyeslash';
+import { InputText } from 'primereactnew/dist/inputtext';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { Portal } from 'primereactnew/dist/portal';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

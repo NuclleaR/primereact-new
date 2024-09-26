@@ -1210,4 +1210,4 @@ this.primereact.autocomplete = (function (exports, React, PrimeReact, button, co
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.button, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.chevrondown, primereactnew.icons.spinner, primereactnew.icons.timescircle, primereactnew.inputtext, primereactnew.overlayservice, primereactnew.tooltip, primereactnew.utils, primereactnew.csstransition, primereactnew.portal, primereactnew.ripple, primereactnew.virtualscroller);
+})({}, React, primereactnew.dist.api, primereactnew.dist.button, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.chevrondown, primereactnew.dist.icons.spinner, primereactnew.dist.icons.timescircle, primereactnew.dist.inputtext, primereactnew.dist.overlayservice, primereactnew.dist.tooltip, primereactnew.dist.utils, primereactnew.dist.csstransition, primereactnew.dist.portal, primereactnew.dist.ripple, primereactnew.dist.virtualscroller);

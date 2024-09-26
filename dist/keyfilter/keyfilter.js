@@ -113,4 +113,4 @@ this.primereact.keyfilter = (function (exports, utils) {
 
   return exports;
 
-})({}, primereactnew.utils);
+})({}, primereactnew.dist.utils);

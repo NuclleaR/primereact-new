@@ -5,18 +5,18 @@ Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
 var reactTransitionGroup = require('react-transition-group');
-var PrimeReact$1 = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var csstransition = require('primereactnew/csstransition');
-var hooks = require('primereactnew/hooks');
-var portal = require('primereactnew/portal');
-var utils = require('primereactnew/utils');
-var check = require('primereactnew/icons/check');
-var exclamationtriangle = require('primereactnew/icons/exclamationtriangle');
-var infocircle = require('primereactnew/icons/infocircle');
-var times = require('primereactnew/icons/times');
-var timescircle = require('primereactnew/icons/timescircle');
-var ripple = require('primereactnew/ripple');
+var PrimeReact$1 = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var csstransition = require('primereactnew/dist/csstransition');
+var hooks = require('primereactnew/dist/hooks');
+var portal = require('primereactnew/dist/portal');
+var utils = require('primereactnew/dist/utils');
+var check = require('primereactnew/dist/icons/check');
+var exclamationtriangle = require('primereactnew/dist/icons/exclamationtriangle');
+var infocircle = require('primereactnew/dist/icons/infocircle');
+var times = require('primereactnew/dist/icons/times');
+var timescircle = require('primereactnew/dist/icons/timescircle');
+var ripple = require('primereactnew/dist/ripple');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

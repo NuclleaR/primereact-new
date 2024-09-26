@@ -1,24 +1,24 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { FilterMatchMode, PrimeReactContext, ariaLabel, localeOption, FilterService } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { ObjectUtils, classNames, DomHandler, IconUtils } from 'primereactnew/utils';
-import { useMergeProps, useEventListener, useUnmountEffect, useUpdateEffect, useMountEffect } from 'primereactnew/hooks';
-import { ArrowDownIcon } from 'primereactnew/icons/arrowdown';
-import { ArrowUpIcon } from 'primereactnew/icons/arrowup';
-import { SpinnerIcon } from 'primereactnew/icons/spinner';
-import { Paginator } from 'primereactnew/paginator';
-import { CheckIcon } from 'primereactnew/icons/check';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
-import { MinusIcon } from 'primereactnew/icons/minus';
-import { Ripple } from 'primereactnew/ripple';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { Tooltip } from 'primereactnew/tooltip';
-import { SortAltIcon } from 'primereactnew/icons/sortalt';
-import { SortAmountDownIcon } from 'primereactnew/icons/sortamountdown';
-import { SortAmountUpAltIcon } from 'primereactnew/icons/sortamountupalt';
-import { InputText } from 'primereactnew/inputtext';
+import PrimeReact, { FilterMatchMode, PrimeReactContext, ariaLabel, localeOption, FilterService } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { ObjectUtils, classNames, DomHandler, IconUtils } from 'primereactnew/dist/utils';
+import { useMergeProps, useEventListener, useUnmountEffect, useUpdateEffect, useMountEffect } from 'primereactnew/dist/hooks';
+import { ArrowDownIcon } from 'primereactnew/dist/icons/arrowdown';
+import { ArrowUpIcon } from 'primereactnew/dist/icons/arrowup';
+import { SpinnerIcon } from 'primereactnew/dist/icons/spinner';
+import { Paginator } from 'primereactnew/dist/paginator';
+import { CheckIcon } from 'primereactnew/dist/icons/check';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { ChevronRightIcon } from 'primereactnew/dist/icons/chevronright';
+import { MinusIcon } from 'primereactnew/dist/icons/minus';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { Tooltip } from 'primereactnew/dist/tooltip';
+import { SortAltIcon } from 'primereactnew/dist/icons/sortalt';
+import { SortAmountDownIcon } from 'primereactnew/dist/icons/sortamountdown';
+import { SortAmountUpAltIcon } from 'primereactnew/dist/icons/sortamountupalt';
+import { InputText } from 'primereactnew/dist/inputtext';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

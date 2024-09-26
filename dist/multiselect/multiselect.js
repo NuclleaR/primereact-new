@@ -2150,4 +2150,4 @@ this.primereact.multiselect = (function (exports, React, PrimeReact, componentba
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.chevrondown, primereactnew.icons.spinner, primereactnew.icons.times, primereactnew.icons.timescircle, primereactnew.overlayservice, primereactnew.tooltip, primereactnew.utils, primereactnew.csstransition, primereactnew.portal, primereactnew.virtualscroller, primereactnew.icons.check, primereactnew.icons.search, primereactnew.inputtext, primereactnew.ripple);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.chevrondown, primereactnew.dist.icons.spinner, primereactnew.dist.icons.times, primereactnew.dist.icons.timescircle, primereactnew.dist.overlayservice, primereactnew.dist.tooltip, primereactnew.dist.utils, primereactnew.dist.csstransition, primereactnew.dist.portal, primereactnew.dist.virtualscroller, primereactnew.dist.icons.check, primereactnew.dist.icons.search, primereactnew.dist.inputtext, primereactnew.dist.ripple);

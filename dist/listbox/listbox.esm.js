@@ -1,14 +1,14 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext, FilterService, localeOption } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useMountEffect } from 'primereactnew/hooks';
-import { Tooltip } from 'primereactnew/tooltip';
-import { classNames, IconUtils, ObjectUtils, DomHandler, UniqueComponentId } from 'primereactnew/utils';
-import { VirtualScroller } from 'primereactnew/virtualscroller';
-import { SearchIcon } from 'primereactnew/icons/search';
-import { InputText } from 'primereactnew/inputtext';
-import { Ripple } from 'primereactnew/ripple';
+import { PrimeReactContext, FilterService, localeOption } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useMountEffect } from 'primereactnew/dist/hooks';
+import { Tooltip } from 'primereactnew/dist/tooltip';
+import { classNames, IconUtils, ObjectUtils, DomHandler, UniqueComponentId } from 'primereactnew/dist/utils';
+import { VirtualScroller } from 'primereactnew/dist/virtualscroller';
+import { SearchIcon } from 'primereactnew/dist/icons/search';
+import { InputText } from 'primereactnew/dist/inputtext';
+import { Ripple } from 'primereactnew/dist/ripple';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

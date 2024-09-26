@@ -1,6 +1,6 @@
 'use client';
 import * as React from 'react';
-import { IconBase } from 'primereactnew/iconbase';
+import { IconBase } from 'primereactnew/dist/iconbase';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

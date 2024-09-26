@@ -922,4 +922,4 @@ this.primereact.carousel = (function (exports, React, PrimeReact, componentbase,
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.chevrondown, primereactnew.icons.chevronleft, primereactnew.icons.chevronright, primereactnew.icons.chevronup, primereactnew.ripple, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.icons.chevrondown, primereactnew.dist.icons.chevronleft, primereactnew.dist.icons.chevronright, primereactnew.dist.icons.chevronup, primereactnew.dist.ripple, primereactnew.dist.utils);

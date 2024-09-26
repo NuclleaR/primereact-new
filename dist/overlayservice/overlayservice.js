@@ -10,4 +10,4 @@ this.primereact.overlayservice = (function (exports, utils) {
 
 	return exports;
 
-})({}, primereactnew.utils);
+})({}, primereactnew.dist.utils);

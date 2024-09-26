@@ -267,4 +267,4 @@ this.primereact.togglebutton = (function (exports, React, api, componentbase, ho
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.ripple, primereactnew.tooltip, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.hooks, primereactnew.dist.ripple, primereactnew.dist.tooltip, primereactnew.dist.utils);

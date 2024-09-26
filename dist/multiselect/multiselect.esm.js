@@ -1,22 +1,22 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption, FilterService } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useUpdateEffect, useMountEffect, useOverlayListener, useUnmountEffect } from 'primereactnew/hooks';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { SpinnerIcon } from 'primereactnew/icons/spinner';
-import { TimesIcon } from 'primereactnew/icons/times';
-import { TimesCircleIcon } from 'primereactnew/icons/timescircle';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { Tooltip } from 'primereactnew/tooltip';
-import { classNames, ObjectUtils, DomHandler, IconUtils, UniqueComponentId, ZIndexUtils } from 'primereactnew/utils';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { Portal } from 'primereactnew/portal';
-import { VirtualScroller } from 'primereactnew/virtualscroller';
-import { CheckIcon } from 'primereactnew/icons/check';
-import { SearchIcon } from 'primereactnew/icons/search';
-import { InputText } from 'primereactnew/inputtext';
-import { Ripple } from 'primereactnew/ripple';
+import PrimeReact, { PrimeReactContext, localeOption, FilterService } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useUpdateEffect, useMountEffect, useOverlayListener, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { SpinnerIcon } from 'primereactnew/dist/icons/spinner';
+import { TimesIcon } from 'primereactnew/dist/icons/times';
+import { TimesCircleIcon } from 'primereactnew/dist/icons/timescircle';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { Tooltip } from 'primereactnew/dist/tooltip';
+import { classNames, ObjectUtils, DomHandler, IconUtils, UniqueComponentId, ZIndexUtils } from 'primereactnew/dist/utils';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { Portal } from 'primereactnew/dist/portal';
+import { VirtualScroller } from 'primereactnew/dist/virtualscroller';
+import { CheckIcon } from 'primereactnew/dist/icons/check';
+import { SearchIcon } from 'primereactnew/dist/icons/search';
+import { InputText } from 'primereactnew/dist/inputtext';
+import { Ripple } from 'primereactnew/dist/ripple';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

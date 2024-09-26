@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, ariaLabel } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useEventListener, useResizeListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { BarsIcon } from 'primereactnew/icons/bars';
-import { classNames, ObjectUtils, IconUtils, DomHandler, UniqueComponentId, ZIndexUtils } from 'primereactnew/utils';
-import { AngleDownIcon } from 'primereactnew/icons/angledown';
-import { AngleRightIcon } from 'primereactnew/icons/angleright';
-import { Ripple } from 'primereactnew/ripple';
+import PrimeReact, { PrimeReactContext, ariaLabel } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useEventListener, useResizeListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { BarsIcon } from 'primereactnew/dist/icons/bars';
+import { classNames, ObjectUtils, IconUtils, DomHandler, UniqueComponentId, ZIndexUtils } from 'primereactnew/dist/utils';
+import { AngleDownIcon } from 'primereactnew/dist/icons/angledown';
+import { AngleRightIcon } from 'primereactnew/dist/icons/angleright';
+import { Ripple } from 'primereactnew/dist/ripple';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

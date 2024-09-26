@@ -1,5 +1,5 @@
 'use client';
-import { ObjectUtils, classNames } from 'primereactnew/utils';
+import { ObjectUtils, classNames } from 'primereactnew/dist/utils';
 
 var IconBase = {
   defaultProps: {

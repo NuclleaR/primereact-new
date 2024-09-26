@@ -4,8 +4,8 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
+var api = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
 
 function _interopNamespace(e) {
     if (e && e.__esModule) return e;

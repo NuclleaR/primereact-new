@@ -4,18 +4,18 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereactnew/api');
-var button = require('primereactnew/button');
-var componentbase = require('primereactnew/componentbase');
-var hooks = require('primereactnew/hooks');
-var chevrondown = require('primereactnew/icons/chevrondown');
-var overlayservice = require('primereactnew/overlayservice');
-var csstransition = require('primereactnew/csstransition');
-var portal = require('primereactnew/portal');
-var utils = require('primereactnew/utils');
-var angleright = require('primereactnew/icons/angleright');
-var ripple = require('primereactnew/ripple');
-var tooltip = require('primereactnew/tooltip');
+var PrimeReact = require('primereactnew/dist/api');
+var button = require('primereactnew/dist/button');
+var componentbase = require('primereactnew/dist/componentbase');
+var hooks = require('primereactnew/dist/hooks');
+var chevrondown = require('primereactnew/dist/icons/chevrondown');
+var overlayservice = require('primereactnew/dist/overlayservice');
+var csstransition = require('primereactnew/dist/csstransition');
+var portal = require('primereactnew/dist/portal');
+var utils = require('primereactnew/dist/utils');
+var angleright = require('primereactnew/dist/icons/angleright');
+var ripple = require('primereactnew/dist/ripple');
+var tooltip = require('primereactnew/dist/tooltip');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

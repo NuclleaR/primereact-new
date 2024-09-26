@@ -4,23 +4,23 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var hooks = require('primereactnew/hooks');
-var chevrondown = require('primereactnew/icons/chevrondown');
-var chevronup = require('primereactnew/icons/chevronup');
-var spinner = require('primereactnew/icons/spinner');
-var times = require('primereactnew/icons/times');
-var overlayservice = require('primereactnew/overlayservice');
-var tooltip = require('primereactnew/tooltip');
-var utils = require('primereactnew/utils');
-var csstransition = require('primereactnew/csstransition');
-var search = require('primereactnew/icons/search');
-var portal = require('primereactnew/portal');
-var virtualscroller = require('primereactnew/virtualscroller');
-var ripple = require('primereactnew/ripple');
-var check = require('primereactnew/icons/check');
-var iconbase = require('primereactnew/iconbase');
+var PrimeReact = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var hooks = require('primereactnew/dist/hooks');
+var chevrondown = require('primereactnew/dist/icons/chevrondown');
+var chevronup = require('primereactnew/dist/icons/chevronup');
+var spinner = require('primereactnew/dist/icons/spinner');
+var times = require('primereactnew/dist/icons/times');
+var overlayservice = require('primereactnew/dist/overlayservice');
+var tooltip = require('primereactnew/dist/tooltip');
+var utils = require('primereactnew/dist/utils');
+var csstransition = require('primereactnew/dist/csstransition');
+var search = require('primereactnew/dist/icons/search');
+var portal = require('primereactnew/dist/portal');
+var virtualscroller = require('primereactnew/dist/virtualscroller');
+var ripple = require('primereactnew/dist/ripple');
+var check = require('primereactnew/dist/icons/check');
+var iconbase = require('primereactnew/dist/iconbase');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

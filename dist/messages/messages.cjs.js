@@ -5,17 +5,17 @@ Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
 var reactTransitionGroup = require('react-transition-group');
-var api = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var csstransition = require('primereactnew/csstransition');
-var hooks = require('primereactnew/hooks');
-var utils = require('primereactnew/utils');
-var check = require('primereactnew/icons/check');
-var exclamationtriangle = require('primereactnew/icons/exclamationtriangle');
-var infocircle = require('primereactnew/icons/infocircle');
-var times = require('primereactnew/icons/times');
-var timescircle = require('primereactnew/icons/timescircle');
-var ripple = require('primereactnew/ripple');
+var api = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var csstransition = require('primereactnew/dist/csstransition');
+var hooks = require('primereactnew/dist/hooks');
+var utils = require('primereactnew/dist/utils');
+var check = require('primereactnew/dist/icons/check');
+var exclamationtriangle = require('primereactnew/dist/icons/exclamationtriangle');
+var infocircle = require('primereactnew/dist/icons/infocircle');
+var times = require('primereactnew/dist/icons/times');
+var timescircle = require('primereactnew/dist/icons/timescircle');
+var ripple = require('primereactnew/dist/ripple');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

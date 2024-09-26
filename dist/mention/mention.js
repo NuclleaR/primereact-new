@@ -872,4 +872,4 @@ this.primereact.mention = (function (exports, React, PrimeReact, componentbase, 
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.keyfilter, primereactnew.tooltip, primereactnew.utils, primereactnew.overlayservice, primereactnew.portal, primereactnew.ripple);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.csstransition, primereactnew.dist.hooks, primereactnew.dist.keyfilter, primereactnew.dist.tooltip, primereactnew.dist.utils, primereactnew.dist.overlayservice, primereactnew.dist.portal, primereactnew.dist.ripple);

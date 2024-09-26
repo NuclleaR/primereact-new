@@ -62,4 +62,4 @@ this.primereact.icons.eyeslash = (function (exports, React, iconbase) {
 
   return exports;
 
-})({}, React, primereactnew.iconbase);
+})({}, React, primereactnew.dist.iconbase);

@@ -1,17 +1,17 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext, localeOption } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useUpdateEffect as useUpdateEffect$1, useMountEffect } from 'primereactnew/hooks';
-import { SearchIcon } from 'primereactnew/icons/search';
-import { SpinnerIcon } from 'primereactnew/icons/spinner';
-import { classNames, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/utils';
-import { CheckIcon } from 'primereactnew/icons/check';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
-import { MinusIcon } from 'primereactnew/icons/minus';
-import { Ripple } from 'primereactnew/ripple';
-import { Tooltip } from 'primereactnew/tooltip';
+import { PrimeReactContext, localeOption } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useUpdateEffect as useUpdateEffect$1, useMountEffect } from 'primereactnew/dist/hooks';
+import { SearchIcon } from 'primereactnew/dist/icons/search';
+import { SpinnerIcon } from 'primereactnew/dist/icons/spinner';
+import { classNames, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
+import { CheckIcon } from 'primereactnew/dist/icons/check';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { ChevronRightIcon } from 'primereactnew/dist/icons/chevronright';
+import { MinusIcon } from 'primereactnew/dist/icons/minus';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { Tooltip } from 'primereactnew/dist/tooltip';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

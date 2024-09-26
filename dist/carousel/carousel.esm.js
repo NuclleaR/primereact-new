@@ -1,14 +1,14 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption, ariaLabel } from 'primereactnew/api';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, usePrevious, useResizeListener, useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { ChevronLeftIcon } from 'primereactnew/icons/chevronleft';
-import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
-import { ChevronUpIcon } from 'primereactnew/icons/chevronup';
-import { Ripple } from 'primereactnew/ripple';
-import { classNames, UniqueComponentId, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/utils';
+import PrimeReact, { PrimeReactContext, localeOption, ariaLabel } from 'primereactnew/dist/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, usePrevious, useResizeListener, useMountEffect, useUpdateEffect } from 'primereactnew/dist/hooks';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { ChevronLeftIcon } from 'primereactnew/dist/icons/chevronleft';
+import { ChevronRightIcon } from 'primereactnew/dist/icons/chevronright';
+import { ChevronUpIcon } from 'primereactnew/dist/icons/chevronup';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { classNames, UniqueComponentId, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/dist/utils';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

@@ -1,20 +1,20 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { localeOption, PrimeReactContext, localeOptions } from 'primereactnew/api';
-import { Button } from 'primereactnew/button';
-import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
-import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, usePrevious, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
-import { CalendarIcon } from 'primereactnew/icons/calendar';
-import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
-import { ChevronLeftIcon } from 'primereactnew/icons/chevronleft';
-import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
-import { ChevronUpIcon } from 'primereactnew/icons/chevronup';
-import { InputText } from 'primereactnew/inputtext';
-import { OverlayService } from 'primereactnew/overlayservice';
-import { Ripple } from 'primereactnew/ripple';
-import { classNames, UniqueComponentId, DomHandler, ObjectUtils, mask, ZIndexUtils, IconUtils } from 'primereactnew/utils';
-import { CSSTransition } from 'primereactnew/csstransition';
-import { Portal } from 'primereactnew/portal';
+import PrimeReact, { localeOption, PrimeReactContext, localeOptions } from 'primereactnew/dist/api';
+import { Button } from 'primereactnew/dist/button';
+import { ComponentBase, useHandleStyle } from 'primereactnew/dist/componentbase';
+import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, usePrevious, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/dist/hooks';
+import { CalendarIcon } from 'primereactnew/dist/icons/calendar';
+import { ChevronDownIcon } from 'primereactnew/dist/icons/chevrondown';
+import { ChevronLeftIcon } from 'primereactnew/dist/icons/chevronleft';
+import { ChevronRightIcon } from 'primereactnew/dist/icons/chevronright';
+import { ChevronUpIcon } from 'primereactnew/dist/icons/chevronup';
+import { InputText } from 'primereactnew/dist/inputtext';
+import { OverlayService } from 'primereactnew/dist/overlayservice';
+import { Ripple } from 'primereactnew/dist/ripple';
+import { classNames, UniqueComponentId, DomHandler, ObjectUtils, mask, ZIndexUtils, IconUtils } from 'primereactnew/dist/utils';
+import { CSSTransition } from 'primereactnew/dist/csstransition';
+import { Portal } from 'primereactnew/dist/portal';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

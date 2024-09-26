@@ -313,4 +313,4 @@ this.primereact.styleclass = (function (exports, React, api, hooks, utils) {
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.hooks, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.hooks, primereactnew.dist.utils);

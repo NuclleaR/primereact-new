@@ -1,8 +1,8 @@
 'use client';
 import * as React from 'react';
 import { useEffect, useContext, useState, useRef } from 'react';
-import { DomHandler, ObjectUtils, UniqueComponentId, mergeProps } from 'primereactnew/utils';
-import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
+import { DomHandler, ObjectUtils, UniqueComponentId, mergeProps } from 'primereactnew/dist/utils';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/dist/api';
 
 function _arrayWithHoles(arr) {
   if (Array.isArray(arr)) return arr;

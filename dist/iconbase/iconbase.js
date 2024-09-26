@@ -36,4 +36,4 @@ this.primereact.iconbase = (function (exports, utils) {
 
     return exports;
 
-})({}, primereactnew.utils);
+})({}, primereactnew.dist.utils);

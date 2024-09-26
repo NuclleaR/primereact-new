@@ -4,17 +4,17 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereactnew/api');
-var componentbase = require('primereactnew/componentbase');
-var hooks = require('primereactnew/hooks');
-var utils = require('primereactnew/utils');
-var angledoubleleft = require('primereactnew/icons/angledoubleleft');
-var ripple = require('primereactnew/ripple');
-var inputnumber = require('primereactnew/inputnumber');
-var angledoubleright = require('primereactnew/icons/angledoubleright');
-var angleright = require('primereactnew/icons/angleright');
-var angleleft = require('primereactnew/icons/angleleft');
-var dropdown = require('primereactnew/dropdown');
+var api = require('primereactnew/dist/api');
+var componentbase = require('primereactnew/dist/componentbase');
+var hooks = require('primereactnew/dist/hooks');
+var utils = require('primereactnew/dist/utils');
+var angledoubleleft = require('primereactnew/dist/icons/angledoubleleft');
+var ripple = require('primereactnew/dist/ripple');
+var inputnumber = require('primereactnew/dist/inputnumber');
+var angledoubleright = require('primereactnew/dist/icons/angledoubleright');
+var angleright = require('primereactnew/dist/icons/angleright');
+var angleleft = require('primereactnew/dist/icons/angleleft');
+var dropdown = require('primereactnew/dist/dropdown');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

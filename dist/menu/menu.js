@@ -683,4 +683,4 @@ this.primereact.menu = (function (exports, React, PrimeReact, componentbase, css
 
   return exports;
 
-})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.overlayservice, primereactnew.portal, primereactnew.ripple, primereactnew.utils);
+})({}, React, primereactnew.dist.api, primereactnew.dist.componentbase, primereactnew.dist.csstransition, primereactnew.dist.hooks, primereactnew.dist.overlayservice, primereactnew.dist.portal, primereactnew.dist.ripple, primereactnew.dist.utils);
