@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, ariaLabel } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useMatchMedia, useEventListener, useResizeListener, useMountEffect, useUpdateEffect } from 'primereact/hooks';
-import { AngleDownIcon } from 'primereact/icons/angledown';
-import { AngleRightIcon } from 'primereact/icons/angleright';
-import { BarsIcon } from 'primereact/icons/bars';
-import { Ripple } from 'primereact/ripple';
-import { classNames, DomHandler, UniqueComponentId, ZIndexUtils, ObjectUtils, IconUtils } from 'primereact/utils';
+import PrimeReact, { PrimeReactContext, ariaLabel } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useMatchMedia, useEventListener, useResizeListener, useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
+import { AngleDownIcon } from 'primereactnew/icons/angledown';
+import { AngleRightIcon } from 'primereactnew/icons/angleright';
+import { BarsIcon } from 'primereactnew/icons/bars';
+import { Ripple } from 'primereactnew/ripple';
+import { classNames, DomHandler, UniqueComponentId, ZIndexUtils, ObjectUtils, IconUtils } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

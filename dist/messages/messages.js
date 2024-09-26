@@ -456,4 +456,4 @@ this.primereact.messages = (function (exports, React, reactTransitionGroup, api,
 
   return exports;
 
-})({}, React, ReactTransitionGroup, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.utils, primereact.icons.check, primereact.icons.exclamationtriangle, primereact.icons.infocircle, primereact.icons.times, primereact.icons.timescircle, primereact.ripple);
+})({}, React, ReactTransitionGroup, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.utils, primereactnew.icons.check, primereactnew.icons.exclamationtriangle, primereactnew.icons.infocircle, primereactnew.icons.times, primereactnew.icons.timescircle, primereactnew.ripple);

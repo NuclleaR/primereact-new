@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext, ariaLabel } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useMountEffect, useUpdateEffect } from 'primereact/hooks';
-import { ChevronLeftIcon } from 'primereact/icons/chevronleft';
-import { ChevronRightIcon } from 'primereact/icons/chevronright';
-import { TimesIcon } from 'primereact/icons/times';
-import { Ripple } from 'primereact/ripple';
-import { ObjectUtils, classNames, UniqueComponentId, DomHandler, IconUtils } from 'primereact/utils';
+import { PrimeReactContext, ariaLabel } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
+import { ChevronLeftIcon } from 'primereactnew/icons/chevronleft';
+import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { Ripple } from 'primereactnew/ripple';
+import { ObjectUtils, classNames, UniqueComponentId, DomHandler, IconUtils } from 'primereactnew/utils';
 
 function _arrayLikeToArray(arr, len) {
   if (len == null || len > arr.length) len = arr.length;

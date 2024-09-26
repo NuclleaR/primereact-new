@@ -1,16 +1,16 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext, ariaLabel as ariaLabel$1, localeOption } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useUpdateEffect } from 'primereact/hooks';
-import { classNames, ObjectUtils, IconUtils } from 'primereact/utils';
-import { AngleDoubleLeftIcon } from 'primereact/icons/angledoubleleft';
-import { Ripple } from 'primereact/ripple';
-import { InputNumber } from 'primereact/inputnumber';
-import { AngleDoubleRightIcon } from 'primereact/icons/angledoubleright';
-import { AngleRightIcon } from 'primereact/icons/angleright';
-import { AngleLeftIcon } from 'primereact/icons/angleleft';
-import { Dropdown } from 'primereact/dropdown';
+import { PrimeReactContext, ariaLabel as ariaLabel$1, localeOption } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useUpdateEffect } from 'primereactnew/hooks';
+import { classNames, ObjectUtils, IconUtils } from 'primereactnew/utils';
+import { AngleDoubleLeftIcon } from 'primereactnew/icons/angledoubleleft';
+import { Ripple } from 'primereactnew/ripple';
+import { InputNumber } from 'primereactnew/inputnumber';
+import { AngleDoubleRightIcon } from 'primereactnew/icons/angledoubleright';
+import { AngleRightIcon } from 'primereactnew/icons/angleright';
+import { AngleLeftIcon } from 'primereactnew/icons/angleleft';
+import { Dropdown } from 'primereactnew/dropdown';
 
 function _arrayWithHoles(arr) {
   if (Array.isArray(arr)) return arr;

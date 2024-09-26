@@ -4,12 +4,12 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereact/api');
-var componentbase = require('primereact/componentbase');
-var hooks = require('primereact/hooks');
-var utils = require('primereact/utils');
-var chevrondown = require('primereact/icons/chevrondown');
-var chevronup = require('primereact/icons/chevronup');
+var api = require('primereactnew/api');
+var componentbase = require('primereactnew/componentbase');
+var hooks = require('primereactnew/hooks');
+var utils = require('primereactnew/utils');
+var chevrondown = require('primereactnew/icons/chevrondown');
+var chevronup = require('primereactnew/icons/chevronup');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

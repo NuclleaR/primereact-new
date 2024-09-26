@@ -244,4 +244,4 @@ this.primereact.inputtextarea = (function (exports, React, api, componentbase, h
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.keyfilter, primereact.tooltip, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.keyfilter, primereactnew.tooltip, primereactnew.utils);

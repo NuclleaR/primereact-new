@@ -272,4 +272,4 @@ this.primereact.inplace = (function (exports, React, api, button, componentbase,
 
   return exports;
 
-})({}, React, primereact.api, primereact.button, primereact.componentbase, primereact.hooks, primereact.icons.times, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.button, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.times, primereactnew.utils);

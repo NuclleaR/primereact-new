@@ -198,4 +198,4 @@ this.primereact.inputtext = (function (exports, React, api, componentbase, hooks
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.keyfilter, primereact.tooltip, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.keyfilter, primereactnew.tooltip, primereactnew.utils);

@@ -1,5 +1,5 @@
 'use client';
-import { DomHandler } from 'primereact/utils';
+import { DomHandler } from 'primereactnew/utils';
 
 function _arrayLikeToArray(arr, len) {
   if (len == null || len > arr.length) len = arr.length;

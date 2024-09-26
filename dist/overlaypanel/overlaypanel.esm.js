@@ -1,14 +1,14 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { CSSTransition } from 'primereact/csstransition';
-import { useMergeProps, useOverlayListener, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useMountEffect, useUnmountEffect } from 'primereact/hooks';
-import { TimesIcon } from 'primereact/icons/times';
-import { OverlayService } from 'primereact/overlayservice';
-import { Portal } from 'primereact/portal';
-import { Ripple } from 'primereact/ripple';
-import { classNames, DomHandler, UniqueComponentId, ZIndexUtils, IconUtils } from 'primereact/utils';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { useMergeProps, useOverlayListener, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useMountEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { OverlayService } from 'primereactnew/overlayservice';
+import { Portal } from 'primereactnew/portal';
+import { Ripple } from 'primereactnew/ripple';
+import { classNames, DomHandler, UniqueComponentId, ZIndexUtils, IconUtils } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

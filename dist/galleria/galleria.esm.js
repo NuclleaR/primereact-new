@@ -1,17 +1,17 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { localeOption, ariaLabel, PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { CSSTransition } from 'primereact/csstransition';
-import { useMergeProps, useMountEffect, usePrevious, useResizeListener, useUpdateEffect, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useInterval, useUnmountEffect } from 'primereact/hooks';
-import { TimesIcon } from 'primereact/icons/times';
-import { Portal } from 'primereact/portal';
-import { Ripple } from 'primereact/ripple';
-import { classNames, IconUtils, DomHandler, UniqueComponentId, ObjectUtils, ZIndexUtils } from 'primereact/utils';
-import { ChevronLeftIcon } from 'primereact/icons/chevronleft';
-import { ChevronRightIcon } from 'primereact/icons/chevronright';
-import { ChevronDownIcon } from 'primereact/icons/chevrondown';
-import { ChevronUpIcon } from 'primereact/icons/chevronup';
+import PrimeReact, { localeOption, ariaLabel, PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { useMergeProps, useMountEffect, usePrevious, useResizeListener, useUpdateEffect, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useInterval, useUnmountEffect } from 'primereactnew/hooks';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { Portal } from 'primereactnew/portal';
+import { Ripple } from 'primereactnew/ripple';
+import { classNames, IconUtils, DomHandler, UniqueComponentId, ObjectUtils, ZIndexUtils } from 'primereactnew/utils';
+import { ChevronLeftIcon } from 'primereactnew/icons/chevronleft';
+import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
+import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
+import { ChevronUpIcon } from 'primereactnew/icons/chevronup';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

@@ -1373,4 +1373,4 @@ this.primereact.inputnumber = (function (exports, React, PrimeReact, componentba
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.angledown, primereact.icons.angleup, primereact.inputtext, primereact.ripple, primereact.tooltip, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.angledown, primereactnew.icons.angleup, primereactnew.inputtext, primereactnew.ripple, primereactnew.tooltip, primereactnew.utils);

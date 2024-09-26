@@ -1103,4 +1103,4 @@ this.primereact.treeselect = (function (exports, React, PrimeReact, componentbas
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.chevrondown, primereact.icons.search, primereact.icons.times, primereact.overlayservice, primereact.ripple, primereact.tooltip, primereact.tree, primereact.utils, primereact.csstransition, primereact.portal);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.chevrondown, primereactnew.icons.search, primereactnew.icons.times, primereactnew.overlayservice, primereactnew.ripple, primereactnew.tooltip, primereactnew.tree, primereactnew.utils, primereactnew.csstransition, primereactnew.portal);

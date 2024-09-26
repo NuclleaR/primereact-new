@@ -4,14 +4,14 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereact/api');
-var componentbase = require('primereact/componentbase');
-var hooks = require('primereact/hooks');
-var ban = require('primereact/icons/ban');
-var star = require('primereact/icons/star');
-var starfill = require('primereact/icons/starfill');
-var tooltip = require('primereact/tooltip');
-var utils = require('primereact/utils');
+var api = require('primereactnew/api');
+var componentbase = require('primereactnew/componentbase');
+var hooks = require('primereactnew/hooks');
+var ban = require('primereactnew/icons/ban');
+var star = require('primereactnew/icons/star');
+var starfill = require('primereactnew/icons/starfill');
+var tooltip = require('primereactnew/tooltip');
+var utils = require('primereactnew/utils');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

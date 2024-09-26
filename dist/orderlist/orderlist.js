@@ -1050,4 +1050,4 @@ this.primereact.orderlist = (function (exports, React, PrimeReact, componentbase
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.utils, primereact.button, primereact.icons.angledoubledown, primereact.icons.angledoubleup, primereact.icons.angledown, primereact.icons.angleup, primereact.icons.search, primereact.ripple);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils, primereactnew.button, primereactnew.icons.angledoubledown, primereactnew.icons.angledoubleup, primereactnew.icons.angledown, primereactnew.icons.angleup, primereactnew.icons.search, primereactnew.ripple);

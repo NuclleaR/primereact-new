@@ -62,4 +62,4 @@ this.primereact.icons.filterslash = (function (exports, React, iconbase) {
 
   return exports;
 
-})({}, React, primereact.iconbase);
+})({}, React, primereactnew.iconbase);

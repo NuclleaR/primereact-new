@@ -1195,4 +1195,4 @@ this.primereact.tieredmenu = (function (exports, React, PrimeReact, componentbas
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.overlayservice, primereact.portal, primereact.utils, primereact.icons.angleright, primereact.ripple);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.overlayservice, primereactnew.portal, primereactnew.utils, primereactnew.icons.angleright, primereactnew.ripple);

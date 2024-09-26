@@ -1,9 +1,9 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useMountEffect, useUnmountEffect } from 'primereact/hooks';
-import { UniqueComponentId, classNames, DomHandler } from 'primereact/utils';
+import { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useMountEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { UniqueComponentId, classNames, DomHandler } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

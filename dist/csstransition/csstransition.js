@@ -154,4 +154,4 @@ this.primereact.csstransition = (function (exports, React, reactTransitionGroup,
 
   return exports;
 
-})({}, React, ReactTransitionGroup, primereact.hooks, primereact.utils, primereact.api);
+})({}, React, ReactTransitionGroup, primereactnew.hooks, primereactnew.utils, primereactnew.api);

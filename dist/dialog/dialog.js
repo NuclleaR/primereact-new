@@ -1024,4 +1024,4 @@ this.primereact.dialog = (function (exports, React, PrimeReact, componentbase, c
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.utils, primereact.icons.times, primereact.icons.windowmaximize, primereact.icons.windowminimize, primereact.portal, primereact.ripple);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.utils, primereactnew.icons.times, primereactnew.icons.windowmaximize, primereactnew.icons.windowminimize, primereactnew.portal, primereactnew.ripple);

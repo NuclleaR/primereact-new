@@ -633,4 +633,4 @@ this.primereact.inputmask = (function (exports, React, api, hooks, inputtext, ut
 
   return exports;
 
-})({}, React, primereact.api, primereact.hooks, primereact.inputtext, primereact.utils, primereact.componentbase);
+})({}, React, primereactnew.api, primereactnew.hooks, primereactnew.inputtext, primereactnew.utils, primereactnew.componentbase);

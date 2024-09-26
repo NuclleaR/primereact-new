@@ -1,12 +1,12 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext, ariaLabel } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useMountEffect } from 'primereact/hooks';
-import { CheckIcon } from 'primereact/icons/check';
-import { TimesIcon } from 'primereact/icons/times';
-import { Tooltip } from 'primereact/tooltip';
-import { classNames, DomHandler, ObjectUtils, IconUtils } from 'primereact/utils';
+import { PrimeReactContext, ariaLabel } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useMountEffect } from 'primereactnew/hooks';
+import { CheckIcon } from 'primereactnew/icons/check';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { Tooltip } from 'primereactnew/tooltip';
+import { classNames, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

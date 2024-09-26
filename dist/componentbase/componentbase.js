@@ -362,4 +362,4 @@ this.primereact.componentbase = (function (exports, PrimeReact, hooks, utils) {
 
   return exports;
 
-})({}, primereact.api, primereact.hooks, primereact.utils);
+})({}, primereactnew.api, primereactnew.hooks, primereactnew.utils);

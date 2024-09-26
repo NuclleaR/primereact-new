@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { CSSTransition } from 'primereact/csstransition';
-import { useMergeProps, useMountEffect } from 'primereact/hooks';
-import { MinusIcon } from 'primereact/icons/minus';
-import { PlusIcon } from 'primereact/icons/plus';
-import { Ripple } from 'primereact/ripple';
-import { classNames, UniqueComponentId, IconUtils } from 'primereact/utils';
+import { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { useMergeProps, useMountEffect } from 'primereactnew/hooks';
+import { MinusIcon } from 'primereactnew/icons/minus';
+import { PlusIcon } from 'primereactnew/icons/plus';
+import { Ripple } from 'primereactnew/ripple';
+import { classNames, UniqueComponentId, IconUtils } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

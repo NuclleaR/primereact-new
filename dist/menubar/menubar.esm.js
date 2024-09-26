@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, ariaLabel } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useEventListener, useResizeListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereact/hooks';
-import { BarsIcon } from 'primereact/icons/bars';
-import { classNames, ObjectUtils, IconUtils, DomHandler, UniqueComponentId, ZIndexUtils } from 'primereact/utils';
-import { AngleDownIcon } from 'primereact/icons/angledown';
-import { AngleRightIcon } from 'primereact/icons/angleright';
-import { Ripple } from 'primereact/ripple';
+import PrimeReact, { PrimeReactContext, ariaLabel } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useEventListener, useResizeListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { BarsIcon } from 'primereactnew/icons/bars';
+import { classNames, ObjectUtils, IconUtils, DomHandler, UniqueComponentId, ZIndexUtils } from 'primereactnew/utils';
+import { AngleDownIcon } from 'primereactnew/icons/angledown';
+import { AngleRightIcon } from 'primereactnew/icons/angleright';
+import { Ripple } from 'primereactnew/ripple';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

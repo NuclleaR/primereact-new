@@ -1,11 +1,11 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps } from 'primereact/hooks';
-import { KeyFilter } from 'primereact/keyfilter';
-import { Tooltip } from 'primereact/tooltip';
-import { classNames, ObjectUtils, DomHandler } from 'primereact/utils';
+import { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps } from 'primereactnew/hooks';
+import { KeyFilter } from 'primereactnew/keyfilter';
+import { Tooltip } from 'primereactnew/tooltip';
+import { classNames, ObjectUtils, DomHandler } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

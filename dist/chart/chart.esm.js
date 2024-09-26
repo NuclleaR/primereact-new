@@ -1,9 +1,9 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useUnmountEffect } from 'primereact/hooks';
-import { classNames } from 'primereact/utils';
+import { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useUnmountEffect } from 'primereactnew/hooks';
+import { classNames } from 'primereactnew/utils';
 
 var ChartBase = ComponentBase.extend({
   defaultProps: {

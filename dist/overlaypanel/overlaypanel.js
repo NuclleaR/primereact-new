@@ -443,4 +443,4 @@ this.primereact.overlaypanel = (function (exports, React, PrimeReact, componentb
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.icons.times, primereact.overlayservice, primereact.portal, primereact.ripple, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.times, primereactnew.overlayservice, primereactnew.portal, primereactnew.ripple, primereactnew.utils);

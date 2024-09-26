@@ -1458,4 +1458,4 @@ this.primereact.splitbutton = (function (exports, React, PrimeReact, button, com
 
   return exports;
 
-})({}, React, primereact.api, primereact.button, primereact.componentbase, primereact.hooks, primereact.icons.chevrondown, primereact.overlayservice, primereact.csstransition, primereact.portal, primereact.utils, primereact.icons.angleright, primereact.ripple, primereact.tooltip);
+})({}, React, primereactnew.api, primereactnew.button, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.chevrondown, primereactnew.overlayservice, primereactnew.csstransition, primereactnew.portal, primereactnew.utils, primereactnew.icons.angleright, primereactnew.ripple, primereactnew.tooltip);

@@ -3725,4 +3725,4 @@ this.primereact.treetable = (function (exports, React, PrimeReact, componentbase
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.utils, primereact.hooks, primereact.icons.arrowdown, primereact.icons.arrowup, primereact.icons.spinner, primereact.paginator, primereact.icons.check, primereact.icons.chevrondown, primereact.icons.chevronright, primereact.icons.minus, primereact.ripple, primereact.overlayservice, primereact.tooltip, primereact.icons.sortalt, primereact.icons.sortamountdown, primereact.icons.sortamountupalt, primereact.inputtext);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.utils, primereactnew.hooks, primereactnew.icons.arrowdown, primereactnew.icons.arrowup, primereactnew.icons.spinner, primereactnew.paginator, primereactnew.icons.check, primereactnew.icons.chevrondown, primereactnew.icons.chevronright, primereactnew.icons.minus, primereactnew.ripple, primereactnew.overlayservice, primereactnew.tooltip, primereactnew.icons.sortalt, primereactnew.icons.sortamountdown, primereactnew.icons.sortamountupalt, primereactnew.inputtext);

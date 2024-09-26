@@ -576,4 +576,4 @@ this.primereact.image = (function (exports, React, PrimeReact, componentbase, cs
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.iconbase, primereact.icons.eye, primereact.icons.refresh, primereact.icons.searchminus, primereact.icons.searchplus, primereact.icons.times, primereact.icons.undo, primereact.portal, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.iconbase, primereactnew.icons.eye, primereactnew.icons.refresh, primereactnew.icons.searchminus, primereactnew.icons.searchplus, primereactnew.icons.times, primereactnew.icons.undo, primereactnew.portal, primereactnew.utils);

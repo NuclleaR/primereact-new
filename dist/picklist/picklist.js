@@ -1750,4 +1750,4 @@ this.primereact.picklist = (function (exports, React, PrimeReact$1, componentbas
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.utils, primereact.button, primereact.icons.angledoubledown, primereact.icons.angledoubleup, primereact.icons.angledown, primereact.icons.angleup, primereact.icons.search, primereact.ripple, primereact.icons.angledoubleleft, primereact.icons.angledoubleright, primereact.icons.angleleft, primereact.icons.angleright);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils, primereactnew.button, primereactnew.icons.angledoubledown, primereactnew.icons.angledoubleup, primereactnew.icons.angledown, primereactnew.icons.angleup, primereactnew.icons.search, primereactnew.ripple, primereactnew.icons.angledoubleleft, primereactnew.icons.angledoubleright, primereactnew.icons.angleleft, primereactnew.icons.angleright);

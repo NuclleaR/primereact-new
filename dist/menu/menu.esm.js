@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { CSSTransition } from 'primereact/csstransition';
-import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useOverlayListener, useMountEffect, useUnmountEffect } from 'primereact/hooks';
-import { OverlayService } from 'primereact/overlayservice';
-import { Portal } from 'primereact/portal';
-import { Ripple } from 'primereact/ripple';
-import { classNames, UniqueComponentId, ZIndexUtils, DomHandler, IconUtils, ObjectUtils } from 'primereact/utils';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useOverlayListener, useMountEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { OverlayService } from 'primereactnew/overlayservice';
+import { Portal } from 'primereactnew/portal';
+import { Ripple } from 'primereactnew/ripple';
+import { classNames, UniqueComponentId, ZIndexUtils, DomHandler, IconUtils, ObjectUtils } from 'primereactnew/utils';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

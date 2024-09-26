@@ -181,4 +181,4 @@ this.primereact.message = (function (exports, React, api, componentbase, hooks, 
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.check, primereact.icons.exclamationtriangle, primereact.icons.infocircle, primereact.icons.timescircle, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.check, primereactnew.icons.exclamationtriangle, primereactnew.icons.infocircle, primereactnew.icons.timescircle, primereactnew.utils);

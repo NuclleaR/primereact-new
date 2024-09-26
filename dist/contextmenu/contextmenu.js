@@ -1232,4 +1232,4 @@ this.primereact.contextmenu = (function (exports, React, PrimeReact, componentba
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.portal, primereact.utils, primereact.icons.angleright, primereact.ripple);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.portal, primereactnew.utils, primereactnew.icons.angleright, primereactnew.ripple);

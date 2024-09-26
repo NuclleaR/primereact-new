@@ -1,20 +1,20 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereact/api';
-import { Button } from 'primereact/button';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereact/hooks';
-import { ChevronDownIcon } from 'primereact/icons/chevrondown';
-import { SpinnerIcon } from 'primereact/icons/spinner';
-import { TimesCircleIcon } from 'primereact/icons/timescircle';
-import { InputText } from 'primereact/inputtext';
-import { OverlayService } from 'primereact/overlayservice';
-import { Tooltip } from 'primereact/tooltip';
-import { classNames, ObjectUtils, UniqueComponentId, DomHandler, ZIndexUtils, IconUtils } from 'primereact/utils';
-import { CSSTransition } from 'primereact/csstransition';
-import { Portal } from 'primereact/portal';
-import { Ripple } from 'primereact/ripple';
-import { VirtualScroller } from 'primereact/virtualscroller';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
+import { Button } from 'primereactnew/button';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
+import { SpinnerIcon } from 'primereactnew/icons/spinner';
+import { TimesCircleIcon } from 'primereactnew/icons/timescircle';
+import { InputText } from 'primereactnew/inputtext';
+import { OverlayService } from 'primereactnew/overlayservice';
+import { Tooltip } from 'primereactnew/tooltip';
+import { classNames, ObjectUtils, UniqueComponentId, DomHandler, ZIndexUtils, IconUtils } from 'primereactnew/utils';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { Portal } from 'primereactnew/portal';
+import { Ripple } from 'primereactnew/ripple';
+import { VirtualScroller } from 'primereactnew/virtualscroller';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

@@ -152,4 +152,4 @@ this.primereact.deferredcontent = (function (exports, React, api, hooks, compone
 
   return exports;
 
-})({}, React, primereact.api, primereact.hooks, primereact.componentbase);
+})({}, React, primereactnew.api, primereactnew.hooks, primereactnew.componentbase);

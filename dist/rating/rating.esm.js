@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps } from 'primereact/hooks';
-import { BanIcon } from 'primereact/icons/ban';
-import { StarIcon } from 'primereact/icons/star';
-import { StarFillIcon } from 'primereact/icons/starfill';
-import { Tooltip } from 'primereact/tooltip';
-import { classNames, ObjectUtils, IconUtils } from 'primereact/utils';
+import { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps } from 'primereactnew/hooks';
+import { BanIcon } from 'primereactnew/icons/ban';
+import { StarIcon } from 'primereactnew/icons/star';
+import { StarFillIcon } from 'primereactnew/icons/starfill';
+import { Tooltip } from 'primereactnew/tooltip';
+import { classNames, ObjectUtils, IconUtils } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

@@ -1869,4 +1869,4 @@ this.primereact.tree = (function (exports, React, api, componentbase, hooks, sea
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.search, primereact.icons.spinner, primereact.utils, primereact.icons.check, primereact.icons.chevrondown, primereact.icons.chevronright, primereact.icons.minus, primereact.ripple, primereact.tooltip);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.search, primereactnew.icons.spinner, primereactnew.utils, primereactnew.icons.check, primereactnew.icons.chevrondown, primereactnew.icons.chevronright, primereactnew.icons.minus, primereactnew.ripple, primereactnew.tooltip);

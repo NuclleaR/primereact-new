@@ -3,7 +3,7 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
-var utils = require('primereact/utils');
+var utils = require('primereactnew/utils');
 
 var OverlayService = utils.EventBus();
 

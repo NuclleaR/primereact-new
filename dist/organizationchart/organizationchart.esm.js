@@ -1,11 +1,11 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps } from 'primereact/hooks';
-import { classNames, IconUtils, ObjectUtils, DomHandler } from 'primereact/utils';
-import { ChevronDownIcon } from 'primereact/icons/chevrondown';
-import { ChevronUpIcon } from 'primereact/icons/chevronup';
+import { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps } from 'primereactnew/hooks';
+import { classNames, IconUtils, ObjectUtils, DomHandler } from 'primereactnew/utils';
+import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
+import { ChevronUpIcon } from 'primereactnew/icons/chevronup';
 
 function _arrayLikeToArray(arr, len) {
   if (len == null || len > arr.length) len = arr.length;

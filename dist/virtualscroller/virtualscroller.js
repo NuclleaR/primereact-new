@@ -1017,4 +1017,4 @@ this.primereact.virtualscroller = (function (exports, React, api, hooks, spinner
 
   return exports;
 
-})({}, React, primereact.api, primereact.hooks, primereact.icons.spinner, primereact.utils, primereact.componentbase);
+})({}, React, primereactnew.api, primereactnew.hooks, primereactnew.icons.spinner, primereactnew.utils, primereactnew.componentbase);

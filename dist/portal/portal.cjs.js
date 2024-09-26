@@ -5,9 +5,9 @@ Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
 var ReactDOM = require('react-dom');
-var PrimeReact = require('primereact/api');
-var hooks = require('primereact/hooks');
-var utils = require('primereact/utils');
+var PrimeReact = require('primereactnew/api');
+var hooks = require('primereactnew/hooks');
+var utils = require('primereactnew/utils');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

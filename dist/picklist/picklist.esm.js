@@ -1,20 +1,20 @@
 'use client';
 import * as React from 'react';
-import PrimeReact$1, { ariaLabel as ariaLabel$1, PrimeReactContext, FilterService } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useMatchMedia, useUpdateEffect } from 'primereact/hooks';
-import { classNames, ObjectUtils, IconUtils, UniqueComponentId, DomHandler } from 'primereact/utils';
-import { Button } from 'primereact/button';
-import { AngleDoubleDownIcon } from 'primereact/icons/angledoubledown';
-import { AngleDoubleUpIcon } from 'primereact/icons/angledoubleup';
-import { AngleDownIcon } from 'primereact/icons/angledown';
-import { AngleUpIcon } from 'primereact/icons/angleup';
-import { SearchIcon } from 'primereact/icons/search';
-import { Ripple } from 'primereact/ripple';
-import { AngleDoubleLeftIcon } from 'primereact/icons/angledoubleleft';
-import { AngleDoubleRightIcon } from 'primereact/icons/angledoubleright';
-import { AngleLeftIcon } from 'primereact/icons/angleleft';
-import { AngleRightIcon } from 'primereact/icons/angleright';
+import PrimeReact$1, { ariaLabel as ariaLabel$1, PrimeReactContext, FilterService } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useMatchMedia, useUpdateEffect } from 'primereactnew/hooks';
+import { classNames, ObjectUtils, IconUtils, UniqueComponentId, DomHandler } from 'primereactnew/utils';
+import { Button } from 'primereactnew/button';
+import { AngleDoubleDownIcon } from 'primereactnew/icons/angledoubledown';
+import { AngleDoubleUpIcon } from 'primereactnew/icons/angledoubleup';
+import { AngleDownIcon } from 'primereactnew/icons/angledown';
+import { AngleUpIcon } from 'primereactnew/icons/angleup';
+import { SearchIcon } from 'primereactnew/icons/search';
+import { Ripple } from 'primereactnew/ripple';
+import { AngleDoubleLeftIcon } from 'primereactnew/icons/angledoubleleft';
+import { AngleDoubleRightIcon } from 'primereactnew/icons/angledoubleright';
+import { AngleLeftIcon } from 'primereactnew/icons/angleleft';
+import { AngleRightIcon } from 'primereactnew/icons/angleright';
 
 function _readOnlyError(name) {
   throw new TypeError("\"" + name + "\" is read-only");

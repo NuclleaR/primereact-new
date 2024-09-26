@@ -412,4 +412,4 @@ this.primereact.confirmdialog = (function (exports, React, api, button, componen
 
   return exports;
 
-})({}, React, primereact.api, primereact.button, primereact.componentbase, primereact.dialog, primereact.hooks, primereact.overlayservice, primereact.portal, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.button, primereactnew.componentbase, primereactnew.dialog, primereactnew.hooks, primereactnew.overlayservice, primereactnew.portal, primereactnew.utils);

@@ -735,4 +735,4 @@ this.primereact.tooltip = (function (exports, React, PrimeReact, componentbase, 
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.portal, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.portal, primereactnew.utils);

@@ -1,9 +1,9 @@
 'use client';
 import React, { useRef, useContext, Children, cloneElement } from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { useMergeProps } from 'primereact/hooks';
-import { classNames } from 'primereact/utils';
-import { ComponentBase } from 'primereact/componentbase';
+import { PrimeReactContext } from 'primereactnew/api';
+import { useMergeProps } from 'primereactnew/hooks';
+import { classNames } from 'primereactnew/utils';
+import { ComponentBase } from 'primereactnew/componentbase';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

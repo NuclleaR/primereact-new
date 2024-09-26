@@ -1309,4 +1309,4 @@ this.primereact.galleria = (function (exports, React, PrimeReact, componentbase,
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.icons.times, primereact.portal, primereact.ripple, primereact.utils, primereact.icons.chevronleft, primereact.icons.chevronright, primereact.icons.chevrondown, primereact.icons.chevronup);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.times, primereactnew.portal, primereactnew.ripple, primereactnew.utils, primereactnew.icons.chevronleft, primereactnew.icons.chevronright, primereactnew.icons.chevrondown, primereactnew.icons.chevronup);

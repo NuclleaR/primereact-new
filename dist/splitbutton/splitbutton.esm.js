@@ -1,17 +1,17 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext } from 'primereact/api';
-import { Button } from 'primereact/button';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useUpdateEffect, useMatchMedia, useEventListener, useResizeListener, useMountEffect, useUnmountEffect, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES } from 'primereact/hooks';
-import { ChevronDownIcon } from 'primereact/icons/chevrondown';
-import { OverlayService } from 'primereact/overlayservice';
-import { CSSTransition } from 'primereact/csstransition';
-import { Portal } from 'primereact/portal';
-import { classNames, DomHandler, ObjectUtils, IconUtils, UniqueComponentId, ZIndexUtils } from 'primereact/utils';
-import { AngleRightIcon } from 'primereact/icons/angleright';
-import { Ripple } from 'primereact/ripple';
-import { Tooltip } from 'primereact/tooltip';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
+import { Button } from 'primereactnew/button';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useUpdateEffect, useMatchMedia, useEventListener, useResizeListener, useMountEffect, useUnmountEffect, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES } from 'primereactnew/hooks';
+import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
+import { OverlayService } from 'primereactnew/overlayservice';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { Portal } from 'primereactnew/portal';
+import { classNames, DomHandler, ObjectUtils, IconUtils, UniqueComponentId, ZIndexUtils } from 'primereactnew/utils';
+import { AngleRightIcon } from 'primereactnew/icons/angleright';
+import { Ripple } from 'primereactnew/ripple';
+import { Tooltip } from 'primereactnew/tooltip';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

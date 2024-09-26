@@ -1,10 +1,10 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereact/hooks';
-import { Portal } from 'primereact/portal';
-import { classNames, DomHandler, ZIndexUtils, ObjectUtils } from 'primereact/utils';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { Portal } from 'primereactnew/portal';
+import { classNames, DomHandler, ZIndexUtils, ObjectUtils } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

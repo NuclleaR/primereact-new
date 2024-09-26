@@ -313,4 +313,4 @@ this.primereact.button = (function (exports, React, api, componentbase, hooks, u
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.utils, primereact.icons.spinner, primereact.ripple, primereact.tooltip);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils, primereactnew.icons.spinner, primereactnew.ripple, primereactnew.tooltip);

@@ -387,4 +387,4 @@ this.primereact.rating = (function (exports, React, api, componentbase, hooks, b
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.ban, primereact.icons.star, primereact.icons.starfill, primereact.tooltip, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.ban, primereactnew.icons.star, primereactnew.icons.starfill, primereactnew.tooltip, primereactnew.utils);

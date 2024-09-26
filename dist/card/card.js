@@ -116,4 +116,4 @@ this.primereact.card = (function (exports, React, api, componentbase, hooks, uti
 
     return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils);

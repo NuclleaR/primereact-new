@@ -462,4 +462,4 @@ this.primereact.tabmenu = (function (exports, React, api, componentbase, hooks, 
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.ripple, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.ripple, primereactnew.utils);

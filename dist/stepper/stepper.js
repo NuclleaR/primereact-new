@@ -598,4 +598,4 @@ this.primereact.stepper = (function (exports, React, api, componentbase, csstran
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.utils);

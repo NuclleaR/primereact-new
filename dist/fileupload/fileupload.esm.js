@@ -1,16 +1,16 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext, localeOption } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps } from 'primereact/hooks';
-import { classNames, ObjectUtils, IconUtils, DomHandler } from 'primereact/utils';
-import { Button } from 'primereact/button';
-import { PlusIcon } from 'primereact/icons/plus';
-import { TimesIcon } from 'primereact/icons/times';
-import { UploadIcon } from 'primereact/icons/upload';
-import { Messages } from 'primereact/messages';
-import { ProgressBar } from 'primereact/progressbar';
-import { Ripple } from 'primereact/ripple';
+import { PrimeReactContext, localeOption } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps } from 'primereactnew/hooks';
+import { classNames, ObjectUtils, IconUtils, DomHandler } from 'primereactnew/utils';
+import { Button } from 'primereactnew/button';
+import { PlusIcon } from 'primereactnew/icons/plus';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { UploadIcon } from 'primereactnew/icons/upload';
+import { Messages } from 'primereactnew/messages';
+import { ProgressBar } from 'primereactnew/progressbar';
+import { Ripple } from 'primereactnew/ripple';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

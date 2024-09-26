@@ -1,13 +1,13 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { CSSTransition } from 'primereact/csstransition';
-import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useEventListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereact/hooks';
-import { TimesIcon } from 'primereact/icons/times';
-import { Portal } from 'primereact/portal';
-import { Ripple } from 'primereact/ripple';
-import { classNames, ZIndexUtils, DomHandler, ObjectUtils, IconUtils } from 'primereact/utils';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useEventListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { Portal } from 'primereactnew/portal';
+import { Ripple } from 'primereactnew/ripple';
+import { classNames, ZIndexUtils, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

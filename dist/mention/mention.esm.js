@@ -1,15 +1,15 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { CSSTransition } from 'primereact/csstransition';
-import { useMergeProps, useOverlayListener, useUpdateEffect, useUnmountEffect } from 'primereact/hooks';
-import { KeyFilter } from 'primereact/keyfilter';
-import { Tooltip } from 'primereact/tooltip';
-import { classNames, ObjectUtils, DomHandler, ZIndexUtils } from 'primereact/utils';
-import { OverlayService } from 'primereact/overlayservice';
-import { Portal } from 'primereact/portal';
-import { Ripple } from 'primereact/ripple';
+import PrimeReact, { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { useMergeProps, useOverlayListener, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { KeyFilter } from 'primereactnew/keyfilter';
+import { Tooltip } from 'primereactnew/tooltip';
+import { classNames, ObjectUtils, DomHandler, ZIndexUtils } from 'primereactnew/utils';
+import { OverlayService } from 'primereactnew/overlayservice';
+import { Portal } from 'primereactnew/portal';
+import { Ripple } from 'primereactnew/ripple';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

@@ -1,10 +1,10 @@
 'use client';
 import * as React from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps } from 'primereact/hooks';
-import { TimesCircleIcon } from 'primereact/icons/timescircle';
-import { classNames, ObjectUtils, UniqueComponentId, IconUtils } from 'primereact/utils';
+import { PrimeReactContext } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps } from 'primereactnew/hooks';
+import { TimesCircleIcon } from 'primereactnew/icons/timescircle';
+import { classNames, ObjectUtils, UniqueComponentId, IconUtils } from 'primereactnew/utils';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

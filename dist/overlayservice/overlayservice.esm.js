@@ -1,5 +1,5 @@
 'use client';
-import { EventBus } from 'primereact/utils';
+import { EventBus } from 'primereactnew/utils';
 
 var OverlayService = EventBus();
 

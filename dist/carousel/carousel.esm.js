@@ -1,14 +1,14 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption, ariaLabel } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, usePrevious, useResizeListener, useMountEffect, useUpdateEffect } from 'primereact/hooks';
-import { ChevronDownIcon } from 'primereact/icons/chevrondown';
-import { ChevronLeftIcon } from 'primereact/icons/chevronleft';
-import { ChevronRightIcon } from 'primereact/icons/chevronright';
-import { ChevronUpIcon } from 'primereact/icons/chevronup';
-import { Ripple } from 'primereact/ripple';
-import { classNames, UniqueComponentId, DomHandler, ObjectUtils, IconUtils } from 'primereact/utils';
+import PrimeReact, { PrimeReactContext, localeOption, ariaLabel } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, usePrevious, useResizeListener, useMountEffect, useUpdateEffect } from 'primereactnew/hooks';
+import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
+import { ChevronLeftIcon } from 'primereactnew/icons/chevronleft';
+import { ChevronRightIcon } from 'primereactnew/icons/chevronright';
+import { ChevronUpIcon } from 'primereactnew/icons/chevronup';
+import { Ripple } from 'primereactnew/ripple';
+import { classNames, UniqueComponentId, DomHandler, ObjectUtils, IconUtils } from 'primereactnew/utils';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

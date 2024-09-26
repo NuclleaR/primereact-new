@@ -1,9 +1,9 @@
 'use client';
 import React from 'react';
-import { PrimeReactContext } from 'primereact/api';
-import { useStyle, useMountEffect } from 'primereact/hooks';
-import { ObjectUtils, DomHandler } from 'primereact/utils';
-import { ComponentBase } from 'primereact/componentbase';
+import { PrimeReactContext } from 'primereactnew/api';
+import { useStyle, useMountEffect } from 'primereactnew/hooks';
+import { ObjectUtils, DomHandler } from 'primereactnew/utils';
+import { ComponentBase } from 'primereactnew/componentbase';
 
 function _typeof(o) {
   "@babel/helpers - typeof";

@@ -1,16 +1,16 @@
 'use client';
 import * as React from 'react';
 import React__default from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { CSSTransition } from 'primereact/csstransition';
-import { useStyle, useMountEffect, useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useEventListener, useUpdateEffect, useUnmountEffect } from 'primereact/hooks';
-import { ObjectUtils, DomHandler, classNames, UniqueComponentId, ZIndexUtils, IconUtils } from 'primereact/utils';
-import { TimesIcon } from 'primereact/icons/times';
-import { WindowMaximizeIcon } from 'primereact/icons/windowmaximize';
-import { WindowMinimizeIcon } from 'primereact/icons/windowminimize';
-import { Portal } from 'primereact/portal';
-import { Ripple } from 'primereact/ripple';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { useStyle, useMountEffect, useMergeProps, useDisplayOrder, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useEventListener, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { ObjectUtils, DomHandler, classNames, UniqueComponentId, ZIndexUtils, IconUtils } from 'primereactnew/utils';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { WindowMaximizeIcon } from 'primereactnew/icons/windowmaximize';
+import { WindowMinimizeIcon } from 'primereactnew/icons/windowminimize';
+import { Portal } from 'primereactnew/portal';
+import { Ripple } from 'primereactnew/ripple';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

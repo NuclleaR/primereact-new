@@ -1734,4 +1734,4 @@ this.primereact.dropdown = (function (exports, React, PrimeReact, componentbase,
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.chevrondown, primereact.icons.chevronup, primereact.icons.spinner, primereact.icons.times, primereact.overlayservice, primereact.tooltip, primereact.utils, primereact.csstransition, primereact.icons.search, primereact.portal, primereact.virtualscroller, primereact.ripple, primereact.icons.check, primereact.iconbase);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.chevrondown, primereactnew.icons.chevronup, primereactnew.icons.spinner, primereactnew.icons.times, primereactnew.overlayservice, primereactnew.tooltip, primereactnew.utils, primereactnew.csstransition, primereactnew.icons.search, primereactnew.portal, primereactnew.virtualscroller, primereactnew.ripple, primereactnew.icons.check, primereactnew.iconbase);

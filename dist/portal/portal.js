@@ -139,4 +139,4 @@ this.primereact.portal = (function (exports, React, ReactDOM, PrimeReact, hooks,
 
   return exports;
 
-})({}, React, ReactDOM, primereact.api, primereact.hooks, primereact.utils);
+})({}, React, ReactDOM, primereactnew.api, primereactnew.hooks, primereactnew.utils);

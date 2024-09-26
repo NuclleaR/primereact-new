@@ -4,25 +4,25 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereact/api');
-var componentbase = require('primereact/componentbase');
-var utils = require('primereact/utils');
-var hooks = require('primereact/hooks');
-var arrowdown = require('primereact/icons/arrowdown');
-var arrowup = require('primereact/icons/arrowup');
-var spinner = require('primereact/icons/spinner');
-var paginator = require('primereact/paginator');
-var check = require('primereact/icons/check');
-var chevrondown = require('primereact/icons/chevrondown');
-var chevronright = require('primereact/icons/chevronright');
-var minus = require('primereact/icons/minus');
-var ripple = require('primereact/ripple');
-var overlayservice = require('primereact/overlayservice');
-var tooltip = require('primereact/tooltip');
-var sortalt = require('primereact/icons/sortalt');
-var sortamountdown = require('primereact/icons/sortamountdown');
-var sortamountupalt = require('primereact/icons/sortamountupalt');
-var inputtext = require('primereact/inputtext');
+var PrimeReact = require('primereactnew/api');
+var componentbase = require('primereactnew/componentbase');
+var utils = require('primereactnew/utils');
+var hooks = require('primereactnew/hooks');
+var arrowdown = require('primereactnew/icons/arrowdown');
+var arrowup = require('primereactnew/icons/arrowup');
+var spinner = require('primereactnew/icons/spinner');
+var paginator = require('primereactnew/paginator');
+var check = require('primereactnew/icons/check');
+var chevrondown = require('primereactnew/icons/chevrondown');
+var chevronright = require('primereactnew/icons/chevronright');
+var minus = require('primereactnew/icons/minus');
+var ripple = require('primereactnew/ripple');
+var overlayservice = require('primereactnew/overlayservice');
+var tooltip = require('primereactnew/tooltip');
+var sortalt = require('primereactnew/icons/sortalt');
+var sortamountdown = require('primereactnew/icons/sortamountdown');
+var sortamountupalt = require('primereactnew/icons/sortamountupalt');
+var inputtext = require('primereactnew/inputtext');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

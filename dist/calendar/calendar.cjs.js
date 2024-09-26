@@ -4,21 +4,21 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereact/api');
-var button = require('primereact/button');
-var componentbase = require('primereact/componentbase');
-var hooks = require('primereact/hooks');
-var calendar = require('primereact/icons/calendar');
-var chevrondown = require('primereact/icons/chevrondown');
-var chevronleft = require('primereact/icons/chevronleft');
-var chevronright = require('primereact/icons/chevronright');
-var chevronup = require('primereact/icons/chevronup');
-var inputtext = require('primereact/inputtext');
-var overlayservice = require('primereact/overlayservice');
-var ripple = require('primereact/ripple');
-var utils = require('primereact/utils');
-var csstransition = require('primereact/csstransition');
-var portal = require('primereact/portal');
+var PrimeReact = require('primereactnew/api');
+var button = require('primereactnew/button');
+var componentbase = require('primereactnew/componentbase');
+var hooks = require('primereactnew/hooks');
+var calendar = require('primereactnew/icons/calendar');
+var chevrondown = require('primereactnew/icons/chevrondown');
+var chevronleft = require('primereactnew/icons/chevronleft');
+var chevronright = require('primereactnew/icons/chevronright');
+var chevronup = require('primereactnew/icons/chevronup');
+var inputtext = require('primereactnew/inputtext');
+var overlayservice = require('primereactnew/overlayservice');
+var ripple = require('primereactnew/ripple');
+var utils = require('primereactnew/utils');
+var csstransition = require('primereactnew/csstransition');
+var portal = require('primereactnew/portal');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

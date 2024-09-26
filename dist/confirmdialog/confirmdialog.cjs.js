@@ -4,14 +4,14 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var api = require('primereact/api');
-var button = require('primereact/button');
-var componentbase = require('primereact/componentbase');
-var dialog = require('primereact/dialog');
-var hooks = require('primereact/hooks');
-var overlayservice = require('primereact/overlayservice');
-var portal = require('primereact/portal');
-var utils = require('primereact/utils');
+var api = require('primereactnew/api');
+var button = require('primereactnew/button');
+var componentbase = require('primereactnew/componentbase');
+var dialog = require('primereactnew/dialog');
+var hooks = require('primereactnew/hooks');
+var overlayservice = require('primereactnew/overlayservice');
+var portal = require('primereactnew/portal');
+var utils = require('primereactnew/utils');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

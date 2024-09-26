@@ -410,4 +410,4 @@ this.primereact.selectbutton = (function (exports, React, api, componentbase, ho
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.tooltip, primereact.utils, primereact.ripple);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.tooltip, primereactnew.utils, primereactnew.ripple);

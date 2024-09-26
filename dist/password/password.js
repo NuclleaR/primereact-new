@@ -748,4 +748,4 @@ this.primereact.password = (function (exports, React, PrimeReact, componentbase,
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.utils, primereact.icons.eye, primereact.icons.eyeslash, primereact.inputtext, primereact.overlayservice, primereact.portal);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.utils, primereactnew.icons.eye, primereactnew.icons.eyeslash, primereactnew.inputtext, primereactnew.overlayservice, primereactnew.portal);

@@ -479,4 +479,4 @@ this.primereact.sidebar = (function (exports, React, PrimeReact, componentbase, 
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.icons.times, primereact.portal, primereact.ripple, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.times, primereactnew.portal, primereactnew.ripple, primereactnew.utils);

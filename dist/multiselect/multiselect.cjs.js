@@ -4,23 +4,23 @@
 Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
-var PrimeReact = require('primereact/api');
-var componentbase = require('primereact/componentbase');
-var hooks = require('primereact/hooks');
-var chevrondown = require('primereact/icons/chevrondown');
-var spinner = require('primereact/icons/spinner');
-var times = require('primereact/icons/times');
-var timescircle = require('primereact/icons/timescircle');
-var overlayservice = require('primereact/overlayservice');
-var tooltip = require('primereact/tooltip');
-var utils = require('primereact/utils');
-var csstransition = require('primereact/csstransition');
-var portal = require('primereact/portal');
-var virtualscroller = require('primereact/virtualscroller');
-var check = require('primereact/icons/check');
-var search = require('primereact/icons/search');
-var inputtext = require('primereact/inputtext');
-var ripple = require('primereact/ripple');
+var PrimeReact = require('primereactnew/api');
+var componentbase = require('primereactnew/componentbase');
+var hooks = require('primereactnew/hooks');
+var chevrondown = require('primereactnew/icons/chevrondown');
+var spinner = require('primereactnew/icons/spinner');
+var times = require('primereactnew/icons/times');
+var timescircle = require('primereactnew/icons/timescircle');
+var overlayservice = require('primereactnew/overlayservice');
+var tooltip = require('primereactnew/tooltip');
+var utils = require('primereactnew/utils');
+var csstransition = require('primereactnew/csstransition');
+var portal = require('primereactnew/portal');
+var virtualscroller = require('primereactnew/virtualscroller');
+var check = require('primereactnew/icons/check');
+var search = require('primereactnew/icons/search');
+var inputtext = require('primereactnew/inputtext');
+var ripple = require('primereactnew/ripple');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }
 

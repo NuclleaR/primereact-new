@@ -5,17 +5,17 @@ Object.defineProperty(exports, '__esModule', { value: true });
 
 var React = require('react');
 var reactTransitionGroup = require('react-transition-group');
-var api = require('primereact/api');
-var componentbase = require('primereact/componentbase');
-var csstransition = require('primereact/csstransition');
-var hooks = require('primereact/hooks');
-var utils = require('primereact/utils');
-var check = require('primereact/icons/check');
-var exclamationtriangle = require('primereact/icons/exclamationtriangle');
-var infocircle = require('primereact/icons/infocircle');
-var times = require('primereact/icons/times');
-var timescircle = require('primereact/icons/timescircle');
-var ripple = require('primereact/ripple');
+var api = require('primereactnew/api');
+var componentbase = require('primereactnew/componentbase');
+var csstransition = require('primereactnew/csstransition');
+var hooks = require('primereactnew/hooks');
+var utils = require('primereactnew/utils');
+var check = require('primereactnew/icons/check');
+var exclamationtriangle = require('primereactnew/icons/exclamationtriangle');
+var infocircle = require('primereactnew/icons/infocircle');
+var times = require('primereactnew/icons/times');
+var timescircle = require('primereactnew/icons/timescircle');
+var ripple = require('primereactnew/ripple');
 
 function _interopNamespace(e) {
   if (e && e.__esModule) return e;

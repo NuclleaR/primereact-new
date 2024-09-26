@@ -531,4 +531,4 @@ this.primereact.dataview = (function (exports, React, PrimeReact, componentbase,
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.icons.bars, primereact.icons.spinner, primereact.icons.thlarge, primereact.paginator, primereact.ripple, primereact.utils, primereact.hooks);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.icons.bars, primereactnew.icons.spinner, primereactnew.icons.thlarge, primereactnew.paginator, primereactnew.ripple, primereactnew.utils, primereactnew.hooks);

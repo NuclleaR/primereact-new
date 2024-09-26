@@ -560,4 +560,4 @@ this.primereact.confirmpopup = (function (exports, React, PrimeReact, button, co
 
   return exports;
 
-})({}, React, primereact.api, primereact.button, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.overlayservice, primereact.portal, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.button, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.overlayservice, primereactnew.portal, primereactnew.utils);

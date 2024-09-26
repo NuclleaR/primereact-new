@@ -1,14 +1,14 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { BarsIcon } from 'primereact/icons/bars';
-import { SpinnerIcon } from 'primereact/icons/spinner';
-import { ThLargeIcon } from 'primereact/icons/thlarge';
-import { Paginator } from 'primereact/paginator';
-import { Ripple } from 'primereact/ripple';
-import { classNames, IconUtils, ObjectUtils } from 'primereact/utils';
-import { useMergeProps } from 'primereact/hooks';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { BarsIcon } from 'primereactnew/icons/bars';
+import { SpinnerIcon } from 'primereactnew/icons/spinner';
+import { ThLargeIcon } from 'primereactnew/icons/thlarge';
+import { Paginator } from 'primereactnew/paginator';
+import { Ripple } from 'primereactnew/ripple';
+import { classNames, IconUtils, ObjectUtils } from 'primereactnew/utils';
+import { useMergeProps } from 'primereactnew/hooks';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

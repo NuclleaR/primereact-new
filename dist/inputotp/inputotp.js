@@ -372,4 +372,4 @@ this.primereact.inputotp = (function (exports, React, api, componentbase, hooks,
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.inputtext, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.inputtext, primereactnew.utils);

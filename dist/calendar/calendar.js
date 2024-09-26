@@ -4074,4 +4074,4 @@ this.primereact.calendar = (function (exports, React, PrimeReact, button, compon
 
   return exports;
 
-})({}, React, primereact.api, primereact.button, primereact.componentbase, primereact.hooks, primereact.icons.calendar, primereact.icons.chevrondown, primereact.icons.chevronleft, primereact.icons.chevronright, primereact.icons.chevronup, primereact.inputtext, primereact.overlayservice, primereact.ripple, primereact.utils, primereact.csstransition, primereact.portal);
+})({}, React, primereactnew.api, primereactnew.button, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.calendar, primereactnew.icons.chevrondown, primereactnew.icons.chevronleft, primereactnew.icons.chevronright, primereactnew.icons.chevronup, primereactnew.inputtext, primereactnew.overlayservice, primereactnew.ripple, primereactnew.utils, primereactnew.csstransition, primereactnew.portal);

@@ -266,4 +266,4 @@ this.primereact.avatar = (function (exports, React, api, componentbase, hooks, u
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.utils);

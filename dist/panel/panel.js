@@ -335,4 +335,4 @@ this.primereact.panel = (function (exports, React, api, componentbase, csstransi
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.csstransition, primereact.hooks, primereact.icons.minus, primereact.icons.plus, primereact.ripple, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.csstransition, primereactnew.hooks, primereactnew.icons.minus, primereactnew.icons.plus, primereactnew.ripple, primereactnew.utils);

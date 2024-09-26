@@ -175,4 +175,4 @@ this.primereact.focustrap = (function (exports, React, api, hooks, utils, compon
 
   return exports;
 
-})({}, React, primereact.api, primereact.hooks, primereact.utils, primereact.componentbase);
+})({}, React, primereactnew.api, primereactnew.hooks, primereactnew.utils, primereactnew.componentbase);

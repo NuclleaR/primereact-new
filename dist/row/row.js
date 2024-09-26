@@ -57,4 +57,4 @@ this.primereact.row = (function (exports, React, api, hooks, componentbase, util
 
     return exports;
 
-})({}, React, primereact.api, primereact.hooks, primereact.componentbase, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.hooks, primereactnew.componentbase, primereactnew.utils);

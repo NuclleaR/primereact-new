@@ -1,18 +1,18 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { CSSTransition } from 'primereact/csstransition';
-import { useMergeProps, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useUnmountEffect } from 'primereact/hooks';
-import { IconBase } from 'primereact/iconbase';
-import { EyeIcon } from 'primereact/icons/eye';
-import { RefreshIcon } from 'primereact/icons/refresh';
-import { SearchMinusIcon } from 'primereact/icons/searchminus';
-import { SearchPlusIcon } from 'primereact/icons/searchplus';
-import { TimesIcon } from 'primereact/icons/times';
-import { UndoIcon } from 'primereact/icons/undo';
-import { Portal } from 'primereact/portal';
-import { classNames, DomHandler, ZIndexUtils, IconUtils, ObjectUtils } from 'primereact/utils';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { useMergeProps, useGlobalOnEscapeKey, ESC_KEY_HANDLING_PRIORITIES, useUnmountEffect } from 'primereactnew/hooks';
+import { IconBase } from 'primereactnew/iconbase';
+import { EyeIcon } from 'primereactnew/icons/eye';
+import { RefreshIcon } from 'primereactnew/icons/refresh';
+import { SearchMinusIcon } from 'primereactnew/icons/searchminus';
+import { SearchPlusIcon } from 'primereactnew/icons/searchplus';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { UndoIcon } from 'primereactnew/icons/undo';
+import { Portal } from 'primereactnew/portal';
+import { classNames, DomHandler, ZIndexUtils, IconUtils, ObjectUtils } from 'primereactnew/utils';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

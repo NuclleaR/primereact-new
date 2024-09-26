@@ -1,7 +1,7 @@
 'use client';
-import PrimeReact from 'primereact/api';
-import { useStyle, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereact/hooks';
-import { ObjectUtils, mergeProps, classNames } from 'primereact/utils';
+import PrimeReact from 'primereactnew/api';
+import { useStyle, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { ObjectUtils, mergeProps, classNames } from 'primereactnew/utils';
 
 function _arrayLikeToArray(arr, len) {
   if (len == null || len > arr.length) len = arr.length;

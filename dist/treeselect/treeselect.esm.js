@@ -1,18 +1,18 @@
 'use client';
 import * as React from 'react';
-import PrimeReact, { PrimeReactContext, localeOption } from 'primereact/api';
-import { ComponentBase, useHandleStyle } from 'primereact/componentbase';
-import { useMergeProps, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereact/hooks';
-import { ChevronDownIcon } from 'primereact/icons/chevrondown';
-import { SearchIcon } from 'primereact/icons/search';
-import { TimesIcon } from 'primereact/icons/times';
-import { OverlayService } from 'primereact/overlayservice';
-import { Ripple } from 'primereact/ripple';
-import { Tooltip } from 'primereact/tooltip';
-import { Tree } from 'primereact/tree';
-import { classNames, ObjectUtils, DomHandler, UniqueComponentId, ZIndexUtils, IconUtils } from 'primereact/utils';
-import { CSSTransition } from 'primereact/csstransition';
-import { Portal } from 'primereact/portal';
+import PrimeReact, { PrimeReactContext, localeOption } from 'primereactnew/api';
+import { ComponentBase, useHandleStyle } from 'primereactnew/componentbase';
+import { useMergeProps, useOverlayListener, useMountEffect, useUpdateEffect, useUnmountEffect } from 'primereactnew/hooks';
+import { ChevronDownIcon } from 'primereactnew/icons/chevrondown';
+import { SearchIcon } from 'primereactnew/icons/search';
+import { TimesIcon } from 'primereactnew/icons/times';
+import { OverlayService } from 'primereactnew/overlayservice';
+import { Ripple } from 'primereactnew/ripple';
+import { Tooltip } from 'primereactnew/tooltip';
+import { Tree } from 'primereactnew/tree';
+import { classNames, ObjectUtils, DomHandler, UniqueComponentId, ZIndexUtils, IconUtils } from 'primereactnew/utils';
+import { CSSTransition } from 'primereactnew/csstransition';
+import { Portal } from 'primereactnew/portal';
 
 function _extends() {
   _extends = Object.assign ? Object.assign.bind() : function (target) {

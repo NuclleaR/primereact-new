@@ -236,4 +236,4 @@ this.primereact.inputswitch = (function (exports, React, api, componentbase, hoo
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.tooltip, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.tooltip, primereactnew.utils);

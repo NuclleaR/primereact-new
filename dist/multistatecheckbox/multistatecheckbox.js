@@ -581,4 +581,4 @@ this.primereact.multistatecheckbox = (function (exports, React, api, componentba
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.check, primereact.tooltip, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.check, primereactnew.tooltip, primereactnew.utils);

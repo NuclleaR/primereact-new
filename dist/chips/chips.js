@@ -627,4 +627,4 @@ this.primereact.chips = (function (exports, React, api, componentbase, hooks, ti
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.timescircle, primereact.keyfilter, primereact.tooltip, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.timescircle, primereactnew.keyfilter, primereactnew.tooltip, primereactnew.utils);

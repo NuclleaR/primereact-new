@@ -392,4 +392,4 @@ this.primereact.breadcrumb = (function (exports, React, api, componentbase, hook
 
   return exports;
 
-})({}, React, primereact.api, primereact.componentbase, primereact.hooks, primereact.icons.chevronright, primereact.utils);
+})({}, React, primereactnew.api, primereactnew.componentbase, primereactnew.hooks, primereactnew.icons.chevronright, primereactnew.utils);
