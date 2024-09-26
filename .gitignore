@@ -19,7 +19,6 @@
 tsconfig.tsbuildinfo
 
 # production
-/dist
 /build
 
 # misc
